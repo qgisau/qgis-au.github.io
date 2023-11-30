@@ -20,7 +20,7 @@ Made up of end-users, hobbyists, scientists, professionals, students and develop
 {{< /lead >}}
 
 {{< lead >}}
- [QGIS Blog](http://blog.qgis.org/) - New from the QGIS Project team
+ [QGIS Blog](http://blog.qgis.org/) - News from the QGIS Project team
 {{< /lead >}}
 
 {{< lead >}}
