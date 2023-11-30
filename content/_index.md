@@ -9,7 +9,7 @@ We have an active online discussion group and our mission is to engage and grow 
 Made up of end-users, hobbyists, scientists, professionals, students and developers, all are welcome and we recognize the importance of everyone's input.
 {{< /lead >}}
 
-# **[Join the Local User Group Now!](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
+# **[Join the Local Australian User Group Now!](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
 
 
 {{< callout "Offical QGIS Links" >}}
