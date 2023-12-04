@@ -40,6 +40,14 @@ Need to file a bug or feature request. Do it here
  [QGIS Plugins](https://plugins.qgis.org/plugins/) - Find extra bits to extend QGIS
 {{< /lead >}}
 
+{{< lead >}}
+[QGIS Hub](http://qgis-hub.fast-page.org/?i=1) - Your source for QGIS Styles and Layouts contributed to by the QGIS Community
+{{< /lead >}}
+
+{{< lead >}}
+[QGIS Dashboard](https://feed.qgis.org/metabase/public/dashboard/df81071d-4c75-45b8-a698-97b8649d7228) - QGIS User Analytics including use by country, number of opens, version use statistics and much more (great for business cases)
+{{< /lead >}}
+
 {{< /callout >}}
 
 <hr/>
