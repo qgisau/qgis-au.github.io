@@ -6,9 +6,9 @@ draft = false
 
 # The History of QGIS
 {{< lead >}}
-Founded by Gary Sherman, a Geologist. 
-Check out one of the rare interviews he has given [Godfather of GIS](https://www.xyht.com/spatial-itgis/godfather-of-qgis/)
-If you want more, then you can check out [Part 1[(https://youtu.be/-CuSMDjhmow?si=tzocI9GuS0vJ7MKo) & [Part 2](https://youtu.be/OeeF7bXQRsc?si=XVlRryqgKd6bM1Gj) of Tim Sutton's Interview on You Tube.
+Founded by Gary Sherman, a Geologist.  
+Check out one of the rare interviews he has given [Godfather of GIS](https://www.xyht.com/spatial-itgis/godfather-of-qgis/)  
+If you want more, then you can check out [Part 1[(https://youtu.be/-CuSMDjhmow?si=tzocI9GuS0vJ7MKo) & [Part 2](https://youtu.be/OeeF7bXQRsc?si=XVlRryqgKd6bM1Gj) of Tim Sutton's Interview on You Tube.  
 {{< /lead >}}
 
 # The Organisers
