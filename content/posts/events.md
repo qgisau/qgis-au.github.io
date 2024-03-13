@@ -28,9 +28,10 @@ Let's get QGIS represented!
 **Venue:** Faculty of Civil Engineering STU, Bratislava, Slovakia
 
 Registration for the event will start in April 2024. 
+
 [Call for papers](https://uc2024.qgis.sk/call-for-papers/)
 
-[Click for more information] (https://uc2024.qgis.sk/))
+[Click for more information](https://uc2024.qgis.sk/))
 {{< /lead >}}
 
 
@@ -41,7 +42,8 @@ Registration for the event will start in April 2024.
 **Venue:** Bratislava, Slovakia
 
 Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas. 
-[Click for more information] (https://github.com/qgis/QGIS/wiki/27th%E2%80%90Contributor%E2%80%90Meeting%E2%80%90in%E2%80%90Bratislava)
+
+[Click for more information](https://github.com/qgis/QGIS/wiki/27th%E2%80%90Contributor%E2%80%90Meeting%E2%80%90in%E2%80%90Bratislava)
 {{< /lead >}}
 
 
@@ -51,7 +53,7 @@ Contributor meetings bring together active members of the QGIS project to plan t
 
 **Venue:**
 
-[Click for more information] (https://foss4g-perth.org/)
+[Click for more information](https://foss4g-perth.org/)
 {{< /lead >}}
 
 
