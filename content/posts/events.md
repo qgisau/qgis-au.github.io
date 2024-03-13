@@ -11,14 +11,23 @@ A list of events up and coming that may be of interest to the QGIS AU Community.
 
 ## GeoRabbles
 {{< lead >}}
-Let's get QGIS represented! 
+Let's get QGIS represented! Give a 10 minute talk you'd like to jump up and present to your community? 
 
 | **City** | **Date** | **Venue** | **Tickets** |**Contact** | 
 | -------- | -------- | --------- | ----------- | ---------- |
 | **Melbourne** | Thursday 18th April | The Clyde | https://georabble.org/ | georabblemelbourne@gmail.com |
-| **Newcastle** | 5.30Pm -8pm, 11th April | Happy Wombat, Hunter St | [Secure your tickets here](https://ti.to/georabble-newcastle/georabble-newy-3)  | newcastlegeorabble@gmail.com |
+| **Newcastle** | 5.30pm -8pm, 11th April | Happy Wombat, Hunter St | [Secure your tickets here](https://ti.to/georabble-newcastle/georabble-newy-3)  | newcastlegeorabble@gmail.com |
 
 [Click for more information](https://georabble.org/)
+{{< /lead >}}
+
+## Geogeeks Perth 
+{{< lead >}}
+[Geogeeks](https://geogeeks.org/#events) is a Perth meetup group having fun with open geospatial, open source GIS, and OpenStreetMap.
+
+*Next Event:*
+
+10am, Saturday 16th March at Coffee Anatomy, Nedlands [Social Mapping Saturday: QEII 2024](https://geogeeks.org/2024/0316_osm-QEII.html)
 {{< /lead >}}
 
 ## QGIS Annual User Conference 2024
