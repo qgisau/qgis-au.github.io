@@ -35,8 +35,11 @@ PSC Member: [Régis Haubourg](https://www.osgeo.org/member/regis-haubourg/)
 # QGIS Applications
 {{< lead >}}
 **QGIS Desktop:** Windows, Mac, Linux, BSD and Android.  
+
 **QGIS Server:** Publish your QGIS projects and layers as OGC compatible WMS, WMTS, WFS and WCS services.  
+
 **QGIS Web Client:** Publish to the web with powerful symbology, labeling and blending features to impress with your maps.  
+
 **Mobile Apps:** Options for Android, iOS, Windows, macOS, Linux from third party apps include Qfield, Mergin Maps and IntraMaps Roam  
 
 A full list can be found [here](https://www.qgis.org/en/site/about/features.html).
