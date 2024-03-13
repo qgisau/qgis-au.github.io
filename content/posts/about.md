@@ -8,7 +8,9 @@ draft = false
 {{< lead >}}
 QGIS was founded by Gary Sherman, a Geologist in the first decade of this century. It is built on top of Free and Open Source Software (FOSS) and is the leading [Free and Open Source Desktop GIS](https://www.osgeo.org/projects/qgis/). It is not only free to use, but free develop as driven by its highly active community of individuals and organsations. Users can submit feature requests, QGIS Enhancement Proposals or sponsor changes through directly funding one of the many commercial support providers. The QGIS Project is governed by the Charter of the [QGIS.ORG Association](https://www.qgis.org/en/site/getinvolved/governance/charter/index.html).   
 Curious to see how many users there are? Check out the [analysis of users](https://analytics.qgis.org/) which shows that there have been over 7 million QGIS Daily opens in the last 30 days in Australia.     
+{{< /lead >}}
 
+{{< lead >}}
 ## Interviews with Gary Sherman
 Check out one of the rare interviews he has given [Godfather of GIS](https://www.xyht.com/spatial-itgis/godfather-of-qgis/)  
 If you want more, then you can check out [Part 1](https://youtu.be/-CuSMDjhmow?si=tzocI9GuS0vJ7MKo) & [Part 2](https://youtu.be/OeeF7bXQRsc?si=XVlRryqgKd6bM1Gj) of Tim Sutton's Interview on You Tube.  
