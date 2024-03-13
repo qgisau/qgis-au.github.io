@@ -61,7 +61,7 @@ The call for presentation abstracts/contributions are now open!
 **Venue:** Faculty of Civil Engineering STU, Bratislava, Slovakia  
 Registration for the event will start in April 2024.   
 [Call for papers](https://uc2024.qgis.sk/call-for-papers/)  
-[Click for more information](https://uc2024.qgis.sk/))  
+[Click for more information](https://uc2024.qgis.sk/)
 {{< /lead >}}
 
 ## 27th QGIS Contributor Meeting 2024
