@@ -19,7 +19,7 @@ If you want more, then you can check out [Part 1](https://youtu.be/-CuSMDjhmow?s
 
 # The QGIS Project
 {{< lead >}}
-QGIS is managed by a Board who have overall governance of the project and deal with the bureaucratic aspects. The fun stuff of what make QGIS evolve so effectivel is directed by the Project Steering Committee who determine the priorites and steer the QGIS project. Additionally, community voting members also can vote  QGIS is legally based in Switzerland. Read about their goverenace [here](https://www.qgis.org/en/site/getinvolved/governance/governance.html).   
+QGIS is managed by a Board who have overall governance of the project and deal with the bureaucratic aspects. The fun stuff of what make QGIS evolve so effectivel is directed by the Project Steering Committee who determine the priorites and steer the QGIS project. Additionally, community voting members vote on grant proposals, "extraordinary" decisions and vote on the board and PSC appointments at the AGM.  QGIS is legally based in Switzerland. Read about their goverenace [here](https://www.qgis.org/en/site/getinvolved/governance/governance.html).   
 
 ### Board Members
 Chair: [Marco Berasocchi](https://www.osgeo.org/member/bernasocchi/)  
