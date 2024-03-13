@@ -45,11 +45,6 @@ Contributor meetings bring together active members of the QGIS project to plan t
 [Click for more information] (https://github.com/qgis/QGIS/wiki/27th%E2%80%90Contributor%E2%80%90Meeting%E2%80%90in%E2%80%90Bratislava)
 {{< /lead >}}
 
-## Global FOSS4G 2025
-{{< lead >}}
-**Date:** TBA
-
-**Venue:** Auckland University of Technology
 
 ## FOSS4G Perth
 {{< lead >}}
