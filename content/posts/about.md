@@ -19,13 +19,14 @@ If you want more, then you can check out [Part 1](https://youtu.be/-CuSMDjhmow?s
 
 # The QGIS Project
 {{< lead >}}
-QGIS is managed by a Board and the Project Steering Committee and is legally based in Switzerland. Read about their goverenace [here](https://www.qgis.org/en/site/getinvolved/governance/governance.html).   
-## Board
+QGIS is managed by a Board who have overall governance of the project and deal with the bureaucratic aspects. The fun stuff of what make QGIS evolve so effectivel is directed by the Project Steering Committee who determine the priorites and steer the QGIS project. Additionally, community voting members also can vote  QGIS is legally based in Switzerland. Read about their goverenace [here](https://www.qgis.org/en/site/getinvolved/governance/governance.html).   
+
+### Board Members
 Chair: [Marco Berasocchi](https://www.osgeo.org/member/bernasocchi/)  
 Vice chair: [Anita Graser](https://www.osgeo.org/member/anita-graser/)  
 Treasurer: [Andreas Neumann](https://www.linkedin.com/in/andreas-neumann-a10114277/)  
 
-## Project Steering Committee  
+### Project Steering Committee Members
 The above members of the boards and:  
 Release Manager: [Jürgen Fischer](https://www.osgeo.org/member/jurgen-fischer/)  
 PSC Member: [Alessandro Pasotti](https://www.linkedin.com/in/itopen/)  
