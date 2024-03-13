@@ -23,55 +23,41 @@ Let's get QGIS represented! Give a 10 minute talk you'd like to jump up and pres
 
 ## Geogeeks Perth 
 {{< lead >}}
-[Geogeeks](https://geogeeks.org/#events) is a Perth meetup group having fun with open geospatial, open source GIS, and OpenStreetMap.
-
-*Next Event:*
-
+[Geogeeks](https://geogeeks.org/#events) is a Perth meetup group having fun with open geospatial, open source GIS, and OpenStreetMap.  
+***Next Event:***  
 10am, Saturday 16th March at Coffee Anatomy, Nedlands [Social Mapping Saturday: QEII 2024](https://geogeeks.org/2024/0316_osm-QEII.html)
 {{< /lead >}}
 
 ## QGIS Annual User Conference 2024
 {{< lead >}}
-**Date:** 9 to 10 September
-
-**Venue:** Faculty of Civil Engineering STU, Bratislava, Slovakia
-
-Registration for the event will start in April 2024. 
-
-[Call for papers](https://uc2024.qgis.sk/call-for-papers/)
-
-[Click for more information](https://uc2024.qgis.sk/))
+**Date:** 9 to 10 September  
+**Venue:** Faculty of Civil Engineering STU, Bratislava, Slovakia  
+Registration for the event will start in April 2024.   
+[Call for papers](https://uc2024.qgis.sk/call-for-papers/)  
+[Click for more information](https://uc2024.qgis.sk/))  
 {{< /lead >}}
 
 
 ## 27th QGIS Contributor Meeting 2024
 {{< lead >}}
-**Date:** 11 to 13 September
-
-**Venue:** Bratislava, Slovakia
-
-Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas. 
-
+**Date:** 11 to 13 September  
+**Venue:** Faculty of Civil Engineering STU, Bratislava, Slovakia    
+Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas.   
 [Click for more information](https://github.com/qgis/QGIS/wiki/27th%E2%80%90Contributor%E2%80%90Meeting%E2%80%90in%E2%80%90Bratislava)
 {{< /lead >}}
 
 
 ## FOSS4G Perth
 {{< lead >}}
-**Date:** 23 October 2024
-
-**Venue:**
-
-[Click for more information](https://foss4g-perth.org/)
+**Date:** 23 October 2024  
+**Venue:** TBC  
+[Click for more information](https://foss4g-perth.org/)  
 {{< /lead >}}
 
-
-
-## FOSS4G SotM Oceania 2024 - Hobart
+## FOSS4G SotM Oceania 2024 - Hobart  
 {{< lead >}}
-**Date:** 5 to 8th November
-
-**Venue:** Hobart
+**Date:** 5 to 8th November  
+**Venue:** Hobart  
 {{</ lead >}}
 
 
