@@ -21,7 +21,7 @@ If you want more, then you can check out [Part 1](https://youtu.be/-CuSMDjhmow?s
 {{< lead >}}
 QGIS AU has been around for awhile with 2 official get togethers in Noosa and Sydney. And sshhh - yes we are QGIS Australia - but we welcome all from the region to partake and encourage the establishment of your own national QGIS group. This group has been speaheaded, managed and revived by Andrew Jeffrey, John Byrant, Nathan Woodrow, Nyall Dawson and Emma Hain.   
 
-If you want to be involved, contribute to the website or the newsletter, please let us know via the QGIS Australia mailing list or contact us via the [QGIS Australia User Group](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
+If you want to be involved, contribute to the website or the newsletter, please let us know via the QGIS Australia mailing list or contact us via the [QGIS Australia User Group](https://groups.google.com/g/australian-qgis-user-group?pli=1)
 {{< /lead >}}
 
 {{< lead >}}
