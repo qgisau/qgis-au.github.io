@@ -20,7 +20,7 @@ Let's get QGIS represented!
 | **Newcastle** | 5.30Pm -8pm, 11th April | Happy Wombat, Hunter St | [Secure your tickets here](https://ti.to/georabble-newcastle/georabble-newy-3)  | newcastlegeorabble@gmail.com |
 
 [Click for more information](https://georabble.org/)
-
+{{< /lead >}}
 
 ## QGIS Annual User Conference 2024
 {{< lead >}}
