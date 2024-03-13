@@ -19,8 +19,7 @@ If you want more, then you can check out [Part 1](https://youtu.be/-CuSMDjhmow?s
 # The Organisers
 {{< lead >}}
 QGIS AU has been around for awhile with 2 official get togethers in Noosa and Sydney. We are all terribly busy so it has been quiet for some time. And sshhh - yes we are QGIS AU - but we welcome all from the region to partake and encourage the establishment of your own national QGIS.  
-If you want to be involved, please let us know via the QGIS Australia mailing list or contact us directly.   
-**Want to contribute to this webpage or to the newsletter, contact us via the [QGIS Australia User Group](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
+If you want to be involved, contribute to the website or the newsletter, please let us know via the QGIS Australia mailing list or contact us via the [QGIS Australia User Group](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
 {{< /lead >}}
 
 
