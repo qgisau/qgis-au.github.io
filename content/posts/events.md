@@ -15,7 +15,7 @@ A list of events up and coming that may be of interest to the QGIS AU Community.
 Let's get QGIS represented! 
 
 | **City** | **Date** | **Venue** | **Tickets** |**Contact** | 
-| --- | --- | --- | --- | 
+| -------- | -------- | --------- | ----------- | ---------- |
 | **Melbourne** | Thursday 18th April | The Clyde | https://georabble.org/ | georabblemelbourne@gmail.com |
 | **Newcastle** | 5.30Pm -8pm, 11th April | Happy Wombat, Hunter St | [Secure your tickets here](https://ti.to/georabble-newcastle/georabble-newy-3)  | newcastlegeorabble@gmail.com |
 
