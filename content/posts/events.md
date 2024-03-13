@@ -28,6 +28,15 @@ Let's get QGIS represented! Give a 10 minute talk you'd like to jump up and pres
 10am, Saturday 16th March at Coffee Anatomy, Nedlands [Social Mapping Saturday: QEII 2024](https://geogeeks.org/2024/0316_osm-QEII.html)
 {{< /lead >}}
 
+## GeoCart 2024
+{{< lead >}}
+**Date:** 21 to 23rd August  
+**Venue:** National library in Wellington
+This is the this 11th National Cartographic Conference organised by the New Zealand Cartographic Society (NZCS) with the theme, ‘Cartographic Endeavours: From Paper to Pixels’. Keynotes include David Garcia, Dr Ocean Mercier, [Daniel P. Huffman](https://somethingaboutmaps.com/Client-Work) and Daniel O'Donohue
+The call for presentation abstracts/contributions are now open!
+[Click for more information](https://www.cartography.org.nz/geocart2024)
+{{< /lead >}}
+
 ## QGIS Annual User Conference 2024
 {{< lead >}}
 **Date:** 9 to 10 September  
