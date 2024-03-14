@@ -16,6 +16,21 @@
   weight = 10
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Events"
+  pageRef = "events"
+  weight = 10
+
+[[main]]
+  name = "QGIS"
+  pageRef = "qgis"
+  weight = 10
+
+[[main]]
   identifier = "locale"
   weight = 100
   [main.params]

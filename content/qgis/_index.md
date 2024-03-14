@@ -1,9 +1,3 @@
-+++
-title = 'The QGIS Project'
-date = 2024-01-14T07:07:07+01:00
-draft = false
-+++
-
 # The History of QGIS
 {{< lead >}}
 QGIS was founded by Gary Sherman, a Geologist in the first decade of this century. It is built on top of Free and Open Source Software (FOSS) and is the leading [Free and Open Source Desktop GIS](https://www.osgeo.org/projects/qgis/). It is not only free to use, but free develop as driven by its highly active community of individuals and organsations. Users can submit feature requests, QGIS Enhancement Proposals or sponsor changes through directly funding one of the many commercial support providers. The QGIS Project is governed by the Charter of the [QGIS.ORG Association](https://www.qgis.org/en/site/getinvolved/governance/charter/index.html).   

@@ -9,7 +9,7 @@ Any `.md` files found under `content/posts` will be render as pages on the site 
 
 Use `hugo new content posts/{nameofpage}.md` to create a new page
 
-OR
+OR MANUALLY
 
 Create a page under `content/posts/` `mypage.md` with the following content as the page header:
 
