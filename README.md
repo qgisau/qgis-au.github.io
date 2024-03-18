@@ -1,7 +1,8 @@
 # QGIS-AU website
 
-Built using hugo
+https://qgis-australia.org/
 
+Built using hugo
 
 ## Adding a new page
 
@@ -22,3 +23,16 @@ draft = false
 ```
 
 Set `draft = true` if you don't wish the page to show up on the site yet
+
+## Adding a new section
+
+Add a new `[[main]]` block in `menus.en.toml` like so 
+
+```
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+```
+
+Update `name` and `pageRef`. Create a new folder in content with the same name as `pageRef` and add a `_index.md` file as the main page for that `pageRef`
