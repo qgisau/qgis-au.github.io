@@ -1,9 +1,8 @@
 +++
 title = 'Run a local QGIS event'
-date = 2024-01-14T07:07:07+01:00
+date = 2024-03-28T07:07:07+01:00
 draft = false
 +++
-
 Running a local event in your own backyard is good. It builds our QGIS community from the base up by connecting each of us with like-minded people. 
 
 # How do I start?
