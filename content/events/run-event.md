@@ -3,7 +3,7 @@ title = 'Run a local QGIS event'
 date = 2024-03-28T07:07:07+01:00
 draft = false
 +++
-Running a local event in your own backyard is good. It builds our QGIS community from the base up by connecting each of us with like-minded people. 
+#### Running a local event in your own backyard is good. It builds our QGIS community from the base up by connecting each of us with like-minded people. 
 
 # How do I start?
 Just do it. Start small and aim to run multiple events to get the momentum going. Chose a location, perhaps a local cafe, library or university space. Use the microgrants to fund the coffees or some pizzas. You can piggy-back on other events, such as GeoRabbles to find your people. Perhaps do a short presentation at another GIS event about using QGIS and your experience with the community, have a date set up for the next meet-up and publicise it at the end of the event. 
