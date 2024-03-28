@@ -20,17 +20,16 @@ Just do it. Start small and aim to run multiple events to get the momentum going
 - Mapping party (find your local OSM peeps to help you here)
 
 #### Venue
-The venue will be guided by the type of event. If you chose a cafe or bar, you can include food as part of the micro-grant. For those events where there is no catering, you can use the microgrant to purchase some food or order some pizzas. If you wish to use computers, in addition to somewhere to sit, will you need access to power and wifi?
+The venue will be guided by the type of event. If you chose a cafe or bar, you can include food as part of the micro-grant. For those events where there is no catering like a library or university, you can use the microgrant to purchase some food or order some pizzas (if its allowed - I mean timtams are a must aren't they?). If you wish to use computers, in addition to somewhere to sit, will you need access to power and wifi?
 
 #### Get people's attention
-Let the community know via the email list - in the subject line, use your location, so like *Grafton QGIS Local Event*.  
-Use the event calender - if you find you cannot add an event, email [QGIS AU](mailto:emma@north-road.com) to provide you access.  
-Send out a notice in the QGIS Happenings - email [QGIS AU](mailto:emma@north-road.com) with the details to be added.  
-Plan out at least a month prior and then email once a week about it. When it gets closer to the event, put out more reminder notifications.
+- Let the community know via the email list - in the subject line, use your location, so like *Grafton QGIS Local Event*.  
+- Use the event calender - if you find you cannot add an event, email [QGIS AU](mailto:emma@north-road.com) to provide you access.  
+- Send out a notice in the QGIS Happenings - email [QGIS AU](mailto:emma@north-road.com) with the details to be added.  
+- Plan out at least a month prior and then email once a week about it. When it gets closer to the event, put out more reminder notifications.
 
 ### How will I fund it
-OSGeo Oceania has microgrants of $250 available for this very reason: to support our community to grow and connect.  
-Accessing microgrants is as easy as clicking the **Apply for a Grant** button on their [Funding](https://osgeo-oceania.org/funding/) page. 
-Make sure you keep your receipts and take photos for the report that you are required to submit. 
+OSGeo Oceania has microgrants of $250 available for this very reason: to support our community to grow and connect. Accessing microgrants is as easy as clicking the **Apply for a Grant** button on their [Funding](https://osgeo-oceania.org/funding/) page. 
+- Make sure you keep your receipts and take photos for the report that you are required to submit. 
 
 
