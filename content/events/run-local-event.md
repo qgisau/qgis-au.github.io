@@ -30,6 +30,10 @@ The venue will be guided by the type of event. If you chose a cafe or bar, you c
 
 ### How will I fund it
 OSGeo Oceania has microgrants of $250 available for this very reason: to support our community to grow and connect. Accessing microgrants is as easy as clicking the **Apply for a Grant** button on their [Funding](https://osgeo-oceania.org/funding/) page. 
-- Make sure you keep your receipts and take photos for the report that you are required to submit. 
+- Give 14 working days to be successful
+- Keep your receipts
+- Take photos (please get consent from people in the photos)
+- Publicise and don't forget to tag us
+- You will be asked to provide a post-event report about the activity, including information on the number of participants and what was achieved.
 
 
