@@ -5,7 +5,7 @@ draft = false
 +++
 #### QGIS Grants are awarded annually. Prospective projects are uploaded as QEPs in March and then voted on by the QGIS Project. 
 
-The [QGIS.ORG](https://www.qgis.org) grant programme is our way to accelerate and streamline development of the [QGIS.ORG project](https://www.qgis.org)  by supporting committed developers and contributors from the community for their work through a grant system. It is a way to distribute our funds amongst our team members in a fair and transparent way.   
+The [QGIS.ORG](https://www.qgis.org) grant programme is a way to accelerate and streamline development of the [QGIS.ORG project](https://www.qgis.org)  by supporting committed developers and contributors from the community for their work through a grant system. It is a way to distribute funds amongst our team members in a fair and transparent way.   
 Applicants may submit more than one proposal and the proposal may be on any topic that you think is relevant and beneficial to the greater QGIS community within the guidelines laid out below.  
 Check out the current submitted Grants <https://github.com/qgis/QGIS-Enhancement-Proposals/issues>  
 ​
