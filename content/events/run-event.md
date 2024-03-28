@@ -20,7 +20,7 @@ Just do it. Start small and aim to run multiple events to get the momentum going
 - Mapping party (find your local OSM peeps to help you here)
 
 #### Venue
-The venue will be guided by the type of event. If you chose a cafe or bar, you can include non-alcoholic drinks or food as part of the micro-grant. For those events where there is no catering, you can use the microgrant to purchase some food or order some pizzas. If you wish to use computers, in addition to somewhere to sit, will you need access to power and wifi?
+The venue will be guided by the type of event. If you chose a cafe or bar, you can include food as part of the micro-grant. For those events where there is no catering, you can use the microgrant to purchase some food or order some pizzas. If you wish to use computers, in addition to somewhere to sit, will you need access to power and wifi?
 
 #### Get people's attention
 Let the community know via the email list - in the subject line, use your location, so like *Grafton QGIS Local Event*.  
