@@ -1,4 +1,4 @@
-[Some hints on running a local event](https://qgis-australia.org/events/run-event/)  
+[Some hints on running a local event](https://qgis-australia.org/events/run-local-event/)  
 
 # Upcoming Events
 
