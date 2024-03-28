@@ -6,7 +6,7 @@ draft = false
 Running a local event in your own backyard is good. It builds our QGIS community from the base up by connecting each of us with like-minded people. 
 
 # How do I start?
-Just do it. Start small and aim to run multiple events to get the momentum going. Chose a location, perhaps a local cafe or bar. Use the microgrants to fund the coffees or some pizzas. You can piggy-back on other events, such as GeoRabbles to find your people. Perhaps do a short presentation at another GIS event about using QGIS and your experience with the community, have a date set up for the next meet-up and publicise it at the end of the event. 
+Just do it. Start small and aim to run multiple events to get the momentum going. Chose a location, perhaps a local cafe, library or university space. Use the microgrants to fund the coffees or some pizzas. You can piggy-back on other events, such as GeoRabbles to find your people. Perhaps do a short presentation at another GIS event about using QGIS and your experience with the community, have a date set up for the next meet-up and publicise it at the end of the event. 
 
 # What will I need
 - Work out the type of event
@@ -20,7 +20,7 @@ Just do it. Start small and aim to run multiple events to get the momentum going
 - Mapping party (find your local OSM peeps to help you here)
 
 ## Venue
-The venue will be guided by the type of event. If you chose a cafe or bar, you can included non-alcoholic drinks or food as part of the micro-grant. For those events where there is no catering, you can use the microgrant to purchase some food or order some pizzas. 
+The venue will be guided by the type of event. If you chose a cafe or bar, you can include non-alcoholic drinks or food as part of the micro-grant. For those events where there is no catering, you can use the microgrant to purchase some food or order some pizzas. If you wish to use computers, in addition to somewhere to sit, will you need access to power and wifi?
 
 ## Get people's attention
 Let the community know via the email list - in the subject line, use your location, so like *Grafton QGIS Local Event*.  
