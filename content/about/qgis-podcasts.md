@@ -22,7 +22,7 @@ If you have any you would like to add, email [QGIS AU](mailto:emma@north-road.co
 [Geospatial Python - Anita Graser](https://mapscaping.com/podcast/geospatial-python/) on Mapscaping  
 [Two mobile data collection apps you need to know about - Kurt Menke](https://mapscaping.com/podcast/two-mobile-data-collection-apps-you-need-to-know-about/) on Mapscaping  
 [Dynamic vector tiles straight from the database - Paul Ramsay](https://mapscaping.com/podcast/dynamic-vector-tiles-straight-from-the-database/?_pos=1&_sid=0efc9129a&_ss=r) on Mapscaping  
-[PostgreSQL – An open source geospatial database for GIS practitioners - John Bryant](https://mapscaping.com/podcast/postgresql-an-open-source-geospatial-database-for-gis-practitioners/) on Mapscaping 
+[PostgreSQL – An open source geospatial database for GIS practitioners - John Bryant](https://mapscaping.com/podcast/postgresql-an-open-source-geospatial-database-for-gis-practitioners/) on Mapscaping  
 [QGIS – An opensource geospatial project- Kurt Menke](https://mapscaping.com/podcast/qgis-an-opensource-geospatial-project/) on Mapscaping 
 
 
