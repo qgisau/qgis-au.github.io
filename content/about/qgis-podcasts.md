@@ -1,20 +1,20 @@
 +++
 title = 'QGIS Podcasts'
 date = 2024-03-28T07:07:07+01:00
-draft = true
+draft = false
 +++
 ### A selection of podcasts about QGIS and those involved in QGIS. 
 If you have any you would like to add, email [QGIS AU](mailto:emma@north-road.com).
 
 ## 2023
-[The Business of QGIS Development- Nyall Dawson](https://mapscaping.com/podcast/the-business-of-qgis-development/){:target="_blank"}  on Mapscaping  
+[The Business of QGIS Development- Nyall Dawson](https://mapscaping.com/podcast/the-business-of-qgis-development/) on Mapscaping  
 
 ## 2023
-[QField - Marco Bernasocchi](https://thegeomob.com/podcast/episode-208){:target="_blank"}  on GeoMob  
+[QField - Marco Bernasocchi](https://thegeomob.com/podcast/episode-208) on GeoMob  
 
 ## 2022
-[QGIS - Marco Bernasocchi](https://thegeomob.com/podcast/episode-148){:target="_blank"}  on GeoMob  
-[GDAL and PDAL - Howard Butler](https://thegeomob.com/podcast/episode-125){:target="_blank"}  on GeoMob  
+[QGIS - Marco Bernasocchi](https://thegeomob.com/podcast/episode-148) on GeoMob  
+[GDAL and PDAL - Howard Butler](https://thegeomob.com/podcast/episode-125) on GeoMob  
 
 ## 2020
 [A Business Built On Open Source GIS - Tim Sutton](https://mapscaping.com/podcast/a-business-built-on-open-source-gis/) on Mapscaping  
