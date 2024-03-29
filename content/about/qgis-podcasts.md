@@ -3,7 +3,8 @@ title = 'QGIS Podcasts'
 date = 2024-03-28T07:07:07+01:00
 draft = false
 +++
-### A selection of podcasts about QGIS and those involved in QGIS. If you have any you would like to add, email [QGIS AU](mailto:emma@north-road.com).
+### A selection of podcasts about QGIS and those involved in QGIS. 
+If you have any you would like to add, email [QGIS AU](mailto:emma@north-road.com).
 
 ## 2024
 [The Business of QGIS Development- Nyall Dawson](https://mapscaping.com/podcast/the-business-of-qgis-development/) on Mapscaping  
