@@ -7,7 +7,7 @@ draft = false
 ## QGIS Workshops at the FOSS4G Oceania Conference
 One of the items discussed at the QGIS AU meeting was setting up some QGIS AU reviewed workshops. We think that perhaps if we do this, we can then create a catalogue of well-thought out and suitable workshops that can be delivered on a repeated basis. 
 
-For the upcoming FOSS4G Oceania Conference the following workshop themes are possible options could be suitable. Not all perhaps, but perhaps some would be welcomed by the attendees.
+For the upcoming FOSS4G Oceania Conference the following workshop themes are possible options could be suitable. Not all, perhaps, but possibly some would be welcomed by the attendees.
 |  Timings  | Cartography |         Analysis         | Field (QField/Mergin) |        Other       |     PostGIS    |
 | ------- | --------- | ---------------------- | ------------------- | ---------------- | ------------ |
 |  **Morning**  |    Intro    |       Model Builder      |   System Administer   |       3D QGIS      |    Advanced    |
