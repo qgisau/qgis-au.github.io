@@ -27,7 +27,7 @@ If you have any more thoughts, please email the list to start the discussion. We
 Head to the [QEP repo](https://github.com/qgis/QGIS-Enhancement-Proposals/labels/Grant-2024) to view them. Add a 👍or a comment to those you think are relevant. 
 
 ## QGIS Resource Sharing
-We have had our first submission for the styles for QGIS Australia from Shaun who has provided the QPWS qml layers. If you have any other resources you think might be useful, please provide a link to the list. We are currently having some teething problems with the repository, so once it is up and running I will let you know how you can add your resources yourself.
+We have had our first submission for the styles for QGIS Australia from Shaun who has provided the QPWS qml layers. If you have any other resources you think might be useful, please provide a link to the list. We are currently having some teething problems with the repository, so once it is up and running we will let you know how you can add your resources yourself.
 
 ## Newsletter Content
 Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
