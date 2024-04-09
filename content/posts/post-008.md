@@ -4,7 +4,7 @@ date = 2024-04-08T07:07:07+01:00
 draft = true
 +++
 
-### This week we view GIS in the wild, harvest some tips and tricks from the Socials, congratulate Chartis for becoming a  our community 
+### This week we view GIS in the wild, harvest some tips from the Socials, and congratulate Chartis for becoming a QGIS Sustaining Member! Also there is an event on Wednesday night in Perth and one on Thursday in Newcastle.
 
 ## QGIS News
 [A big shout-out to Chartis Technology as it becomes a QGIS Sustaining Member](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project)  
