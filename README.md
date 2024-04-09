@@ -5,9 +5,9 @@ https://qgis-australia.org/
 Built using hugo
 
 ## Add a Post
-Add a new md file under content/posts/
-  e.g. `content/posts/post-009.md`
-Copy this to the top
+Add a new md file under content/posts/  
+  e.g. `content/posts/post-009.md`  
+Copy this to the top  
 ```
 +++
 title = '008 - 9th April 2024'
