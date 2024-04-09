@@ -12,26 +12,22 @@ More information below in Events.
 
 ## QGIS News
 - Firstly, a big shout-out of Thanks to Chartis Technology as it becomes a QGIS Sustaining Member. Read more about it [here](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project).  
-<p>
- <img="https://github.com/qgisau/qgis-au.github.io/blob/eb26847e60d262e17181ef169c2dfb472d9e113f/content/posts/static/images/qgis_small_sustaining-member_2024_highres-4-878x1024.png">
-</p>
-
-![Sustaining Member](static/images/qgis_small_sustaining-member_2024_highres-4-878x1024.png)
+![Sustaining Member](qgis_small_sustaining-member_2024_highres-4-878x1024.png)
 
 - GDAL has released a new version: [v3.8.5](https://github.com/OSGeo/gdal/blob/v3.8.5/NEWS.md)
 
 ## GIS Sightings
 - [Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.  
-{{ $image := .Resources.Get "hardquiz.png" }}
+![Hard Quiz](hardquiz.png)
 
 
 - [Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store.  
-![typo](static/images/typo.png)
+![Typo contour products](typo.png)
 
 ## Resource Sharing - Update
 Our QGIS AU Github repo is a great place to share resources for Australian QGIS operations and we are working towards connecting it to the QGIS Style Hub as well. In the meantime, you can load up your collection under the [QGISAU-Resources](https://github.com/qgisau/QGISAU-Resources) collections folder and add it into the readme.
 In regards to which Style hub to use...let's go with this [one](https://plugins.qgis.org/styles/).
-![style](static/images/style.png)
+![QGIS Style](style.png)
 
 ## QGIS Tips and Tricks
 - From the community - there was a need to update the length of a line once it was generated and instead of doing it via the Field Calculator, here is the nifty solution via the attribute forms [Update Geometry Attributes in QGIS](https://gis.stackexchange.com/questions/389709/automatically-updating-geometry-attributes-in-qgis-without-using-virtual-fields) Thanks to Iain and Andrew!
