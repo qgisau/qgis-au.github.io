@@ -12,6 +12,10 @@ More information below in Events.
 
 ## QGIS News
 - Firstly, a big shout-out of Thanks to Chartis Technology as it becomes a QGIS Sustaining Member. Read more about it [here](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project).  
+<p>
+ <img="https://github.com/qgisau/qgis-au.github.io/blob/eb26847e60d262e17181ef169c2dfb472d9e113f/content/posts/static/images/qgis_small_sustaining-member_2024_highres-4-878x1024.png">
+</p>
+
 ![Sustaining Member](static/images/qgis_small_sustaining-member_2024_highres-4-878x1024.png)
 
 - GDAL has released a new version: [v3.8.5](https://github.com/OSGeo/gdal/blob/v3.8.5/NEWS.md)
