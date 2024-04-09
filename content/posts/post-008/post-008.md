@@ -22,7 +22,7 @@ More information below in Events.
 
 
 - [Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store.  
-![Contour Notebooks](/images/typo.png)
+![Contour Notebooks](/images/typo.png?width=200)
 
 ## Resource Sharing - Update
 Our QGIS AU Github repo is a great place to share resources for Australian QGIS operations and we are working towards connecting it to the QGIS Style Hub as well. In the meantime, you can load up your collection under the [QGISAU-Resources](https://github.com/qgisau/QGISAU-Resources) collections folder and add it into the readme.
