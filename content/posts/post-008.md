@@ -1,7 +1,7 @@
 +++
 title = '008 - 9th April 2024'
 date = 2024-04-08T07:07:07+01:00
-draft = true
+draft = false
 +++
 
 ### This week we view GIS in the wild, harvest some tips from the Socials, and congratulate Chartis for becoming a QGIS Sustaining Member!  
