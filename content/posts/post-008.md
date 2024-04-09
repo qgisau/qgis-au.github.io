@@ -1,26 +1,37 @@
 +++
 title = '008 - 9th April 2024'
 date = 2024-04-08T07:07:07+01:00
-draft = true
+draft = false
 +++
 
-### This week we view GIS in the wild, harvest some tips and tricks from the Socials, congratulate Chartis for becoming a  our community 
+### This week we view GIS in the wild, harvest some tips and tricks from the Socials, and congratulate Chartis for becoming a  our community. Perth Mapppers - check out in the events the new event on Wednesday night this week!
 
 ## QGIS News
-[A big shout-out to Chartis Technology as it becomes a QGIS Sustaining Member](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project)  
-![QGIS Sustaining Member](/assets/img/qgis_small_sustaining-member_2024_highres-4-878x1024.png)  
-[UI Improvement for those integrating between ESRI's Portal and QGIS by configuring access to groups was sponsored by SRK and developed by North Road](https://www.linkedin.com/pulse/srk-contributes-open-source-gis-development-assaf-wunsch/)
+- A big shout-out to Chartis Technology as it becomes a [QGIS Sustaining Member](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project)  
+<p align="center">
+<img src="https://github.com/qgisau/qgis-au.github.io/blob/master/assets/img/qgis_small_sustaining-member_2024_highres-4-878x1024.png"  style="height:40%; width:40%" >
+</p>
 
-[GDAL Released: v3.8.5](https://github.com/OSGeo/gdal/blob/v3.8.5/NEWS.md)
+- GDAL has a new release [v3.8.5](https://github.com/OSGeo/gdal/blob/v3.8.5/NEWS.md)!
 
 ## GIS Sightings
-[Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.  
+- [Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.  
+<p align="center">
+<img src="https://github.com/qgisau/qgis-au.github.io/blob/master/assets/img/hardquiz.png"  style="height:60%; width:60%" >
+</p>
 
-[Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store. 
+- [Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store. 
+<p align="center">
+<img src="https://github.com/qgisau/qgis-au.github.io/blob/master/assets/img/typo.png"  style="height:30%; width:30%" >
+</p>
 
 ## Resource Sharing - Update
 Our QGIS AU Github repo is a great place to share resources for Australian QGIS operations and we are working towards connecting it to the QGIS Style Hub as well. In the meantime, you can load up your collection under the [QGISAU-Resources](https://github.com/qgisau/QGISAU-Resources) collections folder and add it into the readme.  
-In regards to which Style hub to use...let's go with this one
+In regards to which Style hub to use...let's go with this [one](https://plugins.qgis.org/styles/).
+<p align="center">
+<img src="https://github.com/qgisau/qgis-au.github.io/blob/master/assets/img/style.png"  style="height:50%; width:50%" >
+</p>
+
 
 ## QGIS Tips and Tricks
 From the community - there was a need to update the length of a line once it was generated and instead of doing it via the Field Calculator, here is the nifty solution via the attribute forms [Update Geometry Attributes in QGIS](https://gis.stackexchange.com/questions/389709/automatically-updating-geometry-attributes-in-qgis-without-using-virtual-fields) Thanks to Iain and Andrew! 
@@ -47,20 +58,22 @@ Enter the following expression: darker(@symbol_color, 120)
 
 
 
-## Check out the Events Calendar](https://qgis-australia.org/events/) for information
-'**New Event Tomorrow night! Geogeeks Talks: the GIS journey**
-April 10, 2024  7:00 pm - 10:00 pm
-Riff (Spacecubed), 45 St Georges Terrace, Perth WA 6000, Australia
-Come for an evening of short talks from local geospatial practitioners.
-This time we’re focused on the GIS journey, featuring stories from  students & early career professionals. We’ll hear about drones,  metadata, and learning QGIS through the eyes of people finding their way  into the geospatial community.
-https://geogeeks.org/2024/0410_gis-journey.html
-Sponsored by OSGeo Oceania.
-'**Newcastle GeoRabble** - this Thursday
-'**Melbourne GeoRabble** - next week on Thursday
+## Events
+**New Event Tomorrow night! Geogeeks Talks: the GIS journey**
+- April 10, 2024  7:00 pm - 10:00 pm at Riff (Spacecubed), 45 St Georges Terrace, Perth WA 6000, Australia  
+- Come for an evening of short talks from local geospatial practitioners. This time we’re focused on the GIS journey, featuring stories from  students & early career professionals. We’ll hear about drones,  metadata, and learning QGIS through the eyes of people finding their way  into the geospatial community.  
+- https://geogeeks.org/2024/0410_gis-journey.html  
+- Sponsored by OSGeo Oceania.  
+**Newcastle GeoRabble**
+- this Thursday  
+**Melbourne GeoRabble**
+- next week on Thursday  
+[Check out the Events Calendar](https://qgis-australia.org/events/) for more information
 
-'## Something out of the box
-[ABC Radio Top 5 Media Residency Program] (https://www.abc.net.au/listen/programs/top5/the-abc-is-seeking-australia-s-best-and-brightest-young-minds/103465016) Each year, the program puts out a call to Australia's higher  education sector and research organisations to find the TOP 5 PhD  scholars in three categories: Humanities, Science and the Arts: TOP 5 – ABC Media Residency Program — ABC listen. The  researchers-in-residence will spend two weeks working alongside the  ABC's award-winning journalists and producers, learning first-hand about  the craft of delivery through radio, television and digital platforms.  
-A past mappy one was [Dr Rohan Fisher](https://www.abc.net.au/listen/programs/futuretense/people-have-to-solve-the-climate-crisis-technology-no-answer/102897170) who has worked with our friend in Fiji and focuses on Fire management in the NT.
+## Something out of the box
+[ABC Radio Top 5 Media Residency Program](https://www.abc.net.au/listen/programs/top5/the-abc-is-seeking-australia-s-best-and-brightest-young-minds/103465016)  
+Each year, the program puts out a call to Australia's higher  education sector and research organisations to find the TOP 5 PhD  scholars in three categories: Humanities, Science and the Arts: TOP 5 – ABC Media Residency Program — ABC listen. The  researchers-in-residence will spend two weeks working alongside the  ABC's award-winning journalists and producers, learning first-hand about  the craft of delivery through radio, television and digital platforms.  
+- A past mappy one was [Dr Rohan Fisher](https://www.abc.net.au/listen/programs/futuretense/people-have-to-solve-the-climate-crisis-technology-no-answer/102897170) who has worked with our friend in Fiji and focuses on Fire management in the NT.
 
 ## Newsletter Content
 Do you want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
