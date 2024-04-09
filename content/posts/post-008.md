@@ -3,9 +3,9 @@ title = '008 - 10th April 2024'
 date = 2024-04-10T07:07:07+01:00
 draft = false
 +++
-### This week we ....
+### This week we view GIS in the wild, harvest some tips and tricks from the Socials, congratulate Chartis for becoming a  our community 
 ## GIS Sightings
-[Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.
+[Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.  
 [Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store. 
 
 ## QGIS Tips and Tricks
