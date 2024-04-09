@@ -4,6 +4,37 @@ https://qgis-australia.org/
 
 Built using hugo
 
+## Add a Post
+Add a new md file under content/posts/
+  e.g. `content/posts/post-009.md`
+Copy this to the top
+```
++++
+title = '008 - 9th April 2024'
+date = 2024-04-09T07:07:07+01:00
+draft = false
++++
+```
+- Amend the title
+- Enter the date, if you want to create it prior to the publish date, you can set this date to a future date.
+- Draft = false means it will be publised live. change to true to keep it from publishing
+- Add in the Content
+- Commit to a new branch
+- Check the website
+
+### Images
+- Add the images to `static/images`
+- Reference the image in the post
+   ` ![alt name](/images/imagename.png)`
+  
+*Don't worry if they don't appear in GitHub, they will appear in the webpage.*
+
+### Troubleshooting
+Check the:
+- names
+- forward slashes
+- dates must be yyyy-mm-dd
+
 ## Adding a new page
 
 Any `.md` files found under `content/posts` will be render as pages on the site under The Happenings and Recent Updates
