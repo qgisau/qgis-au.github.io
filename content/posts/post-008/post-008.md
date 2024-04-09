@@ -18,7 +18,7 @@ More information below in Events.
 
 ## GIS Sightings
 - [Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.  
-![Hard Quiz]((https://github.com/qgisau/qgis-au.github.io/blob/master/content/posts/post-008/hardquiz.png)
+![Hard Quiz](https://github.com/qgisau/qgis-au.github.io/blob/master/content/posts/post-008/hardquiz.png)
 
 
 - [Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store.  
