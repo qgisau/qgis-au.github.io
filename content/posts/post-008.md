@@ -8,7 +8,7 @@ draft = false
 ### Events are on this week 
 - Perth: Wednesday night
 - Newcastle: Thursday  
-  More information below in Events. 
+More information below in Events. 
 
 ## QGIS News
 - Firstly, a big shout-out of Thanks to Chartis Technology as it becomes a QGIS Sustaining Member. Read more about it [here](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project).    
