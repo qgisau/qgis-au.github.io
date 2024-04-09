@@ -74,7 +74,7 @@ In regards to which Style hub to use...let's go with this [one]()
 
 Check out the [Events Calendar](https://qgis-australia.org/events/) for more information
 
-## Any budding radio stars doing thier PhDs?
+## Any budding radio stars doing their PhDs?
 [ABC Radio Top 5 Media Residency Program](https://www.abc.net.au/listen/programs/top5/the-abc-is-seeking-australia-s-best-and-brightest-young-minds/103465016) Each year, the program puts out a call to Australia's higher  education sector and research organisations to find the TOP 5 PhD  scholars in three categories: Humanities, Science and the Arts: TOP 5 – ABC Media Residency Program — ABC listen. The  researchers-in-residence will spend two weeks working alongside the  ABC's award-winning journalists and producers, learning first-hand about  the craft of delivery through radio, television and digital platforms.
 - A past mappy one was [Dr Rohan Fisher](https://www.abc.net.au/listen/programs/futuretense/people-have-to-solve-the-climate-crisis-technology-no-answer/102897170) who has worked with our friend in Fiji and focuses on Fire management in the NT.
 
