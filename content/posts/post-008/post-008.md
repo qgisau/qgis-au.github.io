@@ -12,18 +12,17 @@ More information below in Events.
 
 ## QGIS News
 - Firstly, a big shout-out of Thanks to Chartis Technology as it becomes a QGIS Sustaining Member. Read more about it [here](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project).  
-![](/qgis_small_sustaining-member_2024_highres-4-878x1024.png)
+![](qgis_small_sustaining-member_2024_highres-4-878x1024.png)
 
 - GDAL has released a new version: [v3.8.5](https://github.com/OSGeo/gdal/blob/v3.8.5/NEWS.md)
 
 ## GIS Sightings
 - [Hard Quiz s9 ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iview.abc.net.au/show/hard-quiz/series/9/video/LE2231V008S00&ved=2ahUKEwjcxLquybOFAxX11TQHHTsuDWoQwqsBegQIChAE&usg=AOvVaw3e3ZTLtvdS14DNLn7lY4uR): The contestants, Bronwyn's expert topic was the Mercator Projection - see Tom Gleeson be normal and react like everyone else when we start to discuss GIS.
-![](/hardquiz.png)  
-<img src="https://github.com/qgisau/qgis-au.github.io/blob/master/content/posts/post-008/hardquiz.png"></img>
+![](hardquiz.png)  
 
 
 - [Typo](d) has their mappy designs back with green  notebooks and pencil cases in the contour design - but not online - only in store.  
-![](/typo.png)
+![](typo.png)
 
 ## Resource Sharing - Update
 Our QGIS AU Github repo is a great place to share resources for Australian QGIS operations and we are working towards connecting it to the QGIS Style Hub as well. In the meantime, you can load up your collection under the [QGISAU-Resources](https://github.com/qgisau/QGISAU-Resources) collections folder and add it into the readme.
