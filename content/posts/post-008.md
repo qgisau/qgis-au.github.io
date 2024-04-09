@@ -1,6 +1,6 @@
 +++
-title = '008 - 10th April 2024'
-date = 2024-04-10T07:07:07+01:00
+title = '008 - 9th April 2024'
+date = 2024-04-09T07:07:07+01:00
 draft = false
 +++
 ### This week we view GIS in the wild, harvest some tips and tricks from the Socials, congratulate Chartis for becoming a  our community 
