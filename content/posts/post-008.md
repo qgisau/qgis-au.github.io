@@ -8,8 +8,8 @@ draft = true
 
 ## QGIS News
 [A big shout-out to Chartis Technology as it becomes a QGIS Sustaining Member](https://chartistechnology.com/proud-sustaining-members-of-the-qgis-project)  
-
-[UI Improvement] for those integrating between ESRI's Portal and QGIS by configuring access to groups was sponsored by SRK and developed by North Road](https://www.linkedin.com/pulse/srk-contributes-open-source-gis-development-assaf-wunsch/)
+![QGIS Sustaining Member](/assets/img/qgis_small_sustaining-member_2024_highres-4-878x1024.png)  
+[UI Improvement for those integrating between ESRI's Portal and QGIS by configuring access to groups was sponsored by SRK and developed by North Road](https://www.linkedin.com/pulse/srk-contributes-open-source-gis-development-assaf-wunsch/)
 
 [GDAL Released: v3.8.5](https://github.com/OSGeo/gdal/blob/v3.8.5/NEWS.md)
 
