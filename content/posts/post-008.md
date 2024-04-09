@@ -79,4 +79,4 @@ Check out the [Events Calendar](https://qgis-australia.org/events/) for more inf
 - A past mappy one was [Dr Rohan Fisher](https://www.abc.net.au/listen/programs/futuretense/people-have-to-solve-the-climate-crisis-technology-no-answer/102897170) who has worked with our friend in Fiji and focuses on Fire management in the NT.
 
 ## Newsletter Content
-Do you want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution.
+Do you want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contribution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution.
