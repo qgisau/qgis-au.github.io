@@ -9,6 +9,8 @@ We have an active online discussion group and our mission is to engage and grow 
 Made up of end-users, hobbyists, scientists, professionals, students and developers, all are welcome and we recognise the importance of everyone's input.
 {{< /lead >}}
 
+## **Check out our weekly notices under [The Happenings](https://qgis-australia.org/posts/)**
+
 # **[Join the QGIS Australia User Group now!](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
 
 
