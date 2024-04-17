@@ -42,4 +42,4 @@ Need to find geological resources across the world? Jack Maughan has just made y
   ![OpenLog Plugin](/images/openlog.jpg)  
 
 ## Newsletter Content
-Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
+Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://docs.google.com/forms/d/e/1FAIpQLSc4FFY-0PEfVU4YFZRmPdCoRvXEc3bxnqvEp11MYm4j-UeDgA/viewform?usp=sharing) to fill in your contribution. We will then contact you to run through the contribution. 
