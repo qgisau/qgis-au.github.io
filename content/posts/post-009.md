@@ -37,7 +37,9 @@ As the Monday is free, we have lightly discussed that we should have a QGIS get-
 
 ## Plugins
 Need to find geological resources across the world? Jack Maughan has just made your life easier! Check out his [Mineral Exploration Web Service Plugin](https://www.linkedin.com/posts/jack-maughan-0a7720102_qgis-geoscience-mineralexploration-activity-7183568289460051968-_77w?utm_source=share&utm_medium=member_desktop) for his (and one of the most enjoyable) instruction videos on how to load it up.  
- ![Mineral Exploration Web Service Plugin](/images/min-plugin.png)
+ ![Mineral Exploration Web Service Plugin](/images/min-plugin.png)  
+ Logs, logs, logs - what more does a geologist dream about. Check out the [OpenLog](https://plugins.qgis.org/plugins/openlog/) plugin in the QGIS Plugin Manager.  
+  ![OpenLog Plugin](/images/openlog.jpg)  
 
 ## Newsletter Content
 Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
