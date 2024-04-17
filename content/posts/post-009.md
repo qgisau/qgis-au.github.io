@@ -35,7 +35,8 @@ For possible themes for workshops, check out the post [here](https://qgis-austra
 As the Monday is free, we have lightly discussed that we should have a QGIS get-together. A thread on this has been started [QGIS Meetup at FOSS4G Oceania '24](https://groups.google.com/g/australian-qgis-user-group/c/L17hRBdQPQA/m/fz3-YlAzBAAJ).    
 
 ## Plugins
-Need to find geological resources across the world? Jack Maughan has just made your life easier! Check out his [Mineral Exploration Web Service Plugin](https://www.linkedin.com/posts/jack-maughan-0a7720102_qgis-geoscience-mineralexploration-activity-7183568289460051968-_77w?utm_source=share&utm_medium=member_desktop) for his (and one of the most enjoyable) instruction videos on how to load it up. 
+Need to find geological resources across the world? Jack Maughan has just made your life easier! Check out his [Mineral Exploration Web Service Plugin](https://www.linkedin.com/posts/jack-maughan-0a7720102_qgis-geoscience-mineralexploration-activity-7183568289460051968-_77w?utm_source=share&utm_medium=member_desktop) for his (and one of the most enjoyable) instruction videos on how to load it up.  
+ ![Mineral Exploration Web Service Plugin](/images/min-plugin.png)
 
 ## Newsletter Content
 Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
