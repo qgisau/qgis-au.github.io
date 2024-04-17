@@ -3,6 +3,7 @@ title = '009 - 17th April 2024'
 date = 2024-04-17T07:07:07+01:00
 draft = false
 +++
+
 ## Current unanswered questions on the [QGIS AU User Group email list](https://groups.google.com/g/australian-qgis-user-group)
 - [GDAL sieve function](https://groups.google.com/g/australian-qgis-user-group/c/4jzrFbTC8os/m/CCPfuNieBgAJ): error message saying gdal_sieve.bat is missing
 - [3D map view loading one mega tile](https://groups.google.com/g/australian-qgis-user-group/c/_if7K8JgZ6k/m/PdHleClgAAAJ): QGIS 3D map views loading up one mega-tile instead of breaking views up into smaller, more detailed tilesets
