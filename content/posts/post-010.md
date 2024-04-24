@@ -39,7 +39,7 @@ Remote Sensors! [Orfeo ToolBox](https://www.orfeo-toolbox.org/otb-works-with-qgi
 ### Gimp Selection Feature Plugin
 Gimp is an OS tool similar to Adobe Illustrator and interacts with QGIS quite well such as .qml and .svg creation. This plugin provides [Gimp Selection Feature Plugin](
 https://github.com/lmotta/gimpselectionfeature_plugin/wiki) is great for interacting and creating a polygon using the gimp tools such as Fuzzy Select. 
-*Other software options apart from GIMP include [Paint.net]( https://www.getpaint.net/) and for image distortion [Hugin](https://hugin.sourceforge.io/) - here's a [tutorial](
+*Other software options apart from GIMP include [Paint.net](https://getpaint.net/) and for image distortion [Hugin](https://hugin.sourceforge.io/) - here's a [tutorial](
 https://hugin.sourceforge.io/tutorials/scans/en.shtml) for it.*
 
 ## FOSS4G SotM Oceania 2024 Hobart, 5-8th November
