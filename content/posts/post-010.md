@@ -4,7 +4,7 @@ date = 2024-04-24T07:07:07+01:00
 draft = false
 +++
 
-### This week we pay respect to our fallen, our veterans and serving Members for Anzac Day, learn how to make a Firefly map, delve into raster tools and get involved in FOSS4G Oceania!
+### This week we pay respect to our fallen, our veterans and serving Members for Anzac Day, learn how to make a Firefly map, delve into raster tools and get involved in FOSS4G Oceania.
 
 ## From the QGIS Community
 - [QGIS Community - Official Virtual Group](https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup/), an official QGIS.ORG channel on facebook, has surpassed 81K members worldwide! This is another great resource to keep in your back-pocket.
