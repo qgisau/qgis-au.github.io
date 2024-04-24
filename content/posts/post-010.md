@@ -24,6 +24,7 @@ Read up on the history of the [Royal Australian Survey Corp](https://en.wikipedi
 ### Firefly Map
 Check our Helen makes Maps tutorial on how to make Firefly maps.
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">⚡️Create a firefly map in QGIS in 50 seconds! All you need is:<br><br>🌃 A dark base<br>🗺️ A point layer<br>👀 This video! [sound on - if you can bear my voiceover!] <a href="https://t.co/1Z3lzzpBsx">pic.twitter.com/1Z3lzzpBsx</a></p>&mdash; Helen McKenzie (@helenmakesmaps) <a href="https://twitter.com/helenmakesmaps/status/1773384707536761077?ref_src=twsrc%5Etfw">March 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>   
+
 ### Working With Landsat Surface Reflectance Data in QGIS
 Robert Simmon, from the USA, who specialises in visualizing satellite imagery using GDAL shows us how to [work with Landsat Surface Reflectance data in QGIS](https://medium.com/@robsimmon/working-with-landsat-surface-reflectance-data-in-qgis-13e44e68c217) by L.
 
