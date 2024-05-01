@@ -4,7 +4,8 @@ date = 2024-05-01T07:07:07+01:00
 draft = false
 +++
 
-### "Being a User of open source is good, being a contributor to OS Software is better, being part of the community - that's the best" Hans van der Kwast, April, 2024
+### "Being a User of open source is good, being a contributor to OS Software is better, being part of the community - that's the best" 
+Hans van der Kwast, April, 2024
 
 ## Events
 - [Brisbane Geospatial Meet-up](https://www.eventbrite.com.au/e/brisbane-geospatial-network-bgn-wednesday-1st-of-may-2024-tickets-893342630857?aff=erelexpmlt) is on the 1st Wednesday of the Month - that's right - tonight! 
@@ -31,7 +32,7 @@ QGIS Grant voting occurred last week and only 6 could be selected. After feedbac
 |[PyQGIS linter warnings](qgis/QGIS-Enhancement-Proposals#287) |	@troopa81 |	€5,200.00	
 |[Update older annotation items to new framework](qgis/QGIS-Enhancement-Proposals#269) |	@nyalldawson | €8,000.00	
 |[Clean up point cloud index and improve its thread safety](qgis/QGIS-Enhancement-Proposals#290) |	@wonder-sk | €3,000.00	
-|[Fix access to remote data sources in WebAssembly builds])qgis/QGIS-Enhancement-Proposals#294) |	@wonder-sk |	€4,000.00	
+|[Fix access to remote data sources in WebAssembly builds](qgis/QGIS-Enhancement-Proposals#294) |	@wonder-sk |	€4,000.00	
 
 ## QGIS Project News
 ### QGIS Open Day
