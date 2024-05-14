@@ -16,7 +16,7 @@ How far mapping in daily life has come! Rest assured, I am currently using QGIS 
 Voting closes soon on 24th May for the FOSS4G SotM Oceania logo! [Click here to vote](https://064rp.mjt.lu/lnk/AUgAAEBZYdwAAc3L6kwAANSWe8QAAYCtMnwAnMIzACBIrgBmQVgrhPcEWBGOQ7OwOqXDGWS4MwAebAc/2/INnCFjK21fpkf5WJs1WmqA/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZUNzYmdubnRiS0tXNnN0V0xpaThFMVh1RnU3enNELVliMFI2RnRZaXF0S3JoVnNnL3ZpZXdmb3Jt)  
 
 Want to know what a QGIS Event may look like, here's [GeoGeeks post](https://www.linkedin.com/posts/john-wesley-bryant_qgis-opendronemap-geonetwork-activity-7184062237244891137-O5CL?utm_source=share&utm_medium=member_desktop) from thier get together last month. FOMO!
-![geogeeks](/images/geogeeks.jpeg)
+![geogeeks](/images/geogeeks2.jpeg)
 
 ## QGIS AU News
 ### QGIS AU User Group Meet-up
