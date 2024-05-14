@@ -1,6 +1,6 @@
 +++
-title = '012 - 15th May 2024'
-date = 2024-05-15T07:07:07+01:00
+title = '012 - 14th May 2024'
+date = 2024-05-14T07:07:07+01:00
 draft = false
 +++
 
@@ -62,8 +62,8 @@ In it he will cover 4 Modules:
 
 ### Golf Tragics - save your strokes with QGIS!
 For Golf Tragics out there - you can use [QGIS to create a Golf Course Stroke Saver!](https://youtu.be/xN1yyhVrx4w?si=JIuzS62y2r1QXW8C) 
-- skip to 5min to start it
-- skip to 6.55min if you already have Quick Map Services loaded
+- Start at 5min to skip over installing QGIS.
+- If you already have Quick Map Services loaded, skip to 6.55min.
 
 ## Newsletter Content
 Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
