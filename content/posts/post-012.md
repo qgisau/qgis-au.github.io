@@ -6,22 +6,22 @@ draft = false
 
 ### Over the last week or so, whilst travelling and enjoying Wicked the musical, maps were ever present.  
 The first, as the stage curtain for Wicked, which helped to set the scene for the ensuing entertainment.  
-![Wicked curtain](/images/wickedmap.jpg)  
+![Wicked curtain](/images/wickedmap.jpg?width=50)  
 The second was hiking through the area surrounding Mt Barney along Cronin Creek, knowing that my navigation was taken care of All Trails. 
-![All Trails](/images/MtBarneyAllTrails.png)
-![Mt Barney Creek](/images/MtBarneyCreek.jpg)   
+![All Trails](/images/MtBarneyAllTrails.png?width=50)
+![Mt Barney Creek](/images/MtBarneyCreek.jpg?width=50)   
 How far mapping in daily life has come! Rest assured, I am currently using QGIS to plan my 3 Capes walk to help me understand the elevation, the effort and to look out for special landmarks along the way (still in draft form!).   
-![3 Capes](/images/3capes.png)  
+![3 Capes](/images/3capes.png?width=50)  
 ## Events
 Voting closes soon on 24th May for the FOSS4G SotM Oceania logo! [Click here to vote](https://064rp.mjt.lu/lnk/AUgAAEBZYdwAAc3L6kwAANSWe8QAAYCtMnwAnMIzACBIrgBmQVgrhPcEWBGOQ7OwOqXDGWS4MwAebAc/2/INnCFjK21fpkf5WJs1WmqA/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZUNzYmdubnRiS0tXNnN0V0xpaThFMVh1RnU3enNELVliMFI2RnRZaXF0S3JoVnNnL3ZpZXdmb3Jt)  
 
 Want to know what a QGIS Event may look like, here's [GeoGeeks post](https://www.linkedin.com/posts/john-wesley-bryant_qgis-opendronemap-geonetwork-activity-7184062237244891137-O5CL?utm_source=share&utm_medium=member_desktop) from thier get together last month. FOMO!
-![geogeeks](/images/geogeeks.jpeg)
+![geogeeks](/images/geogeeks.jpeg?width=50)
 
 ## QGIS AU News
 ### QGIS AU User Group Meet-up
 We are currently looking at venues for our meet-up so we would like to get an idea of numbers - [let us know if you will be likely to attend here](https://forms.gle/zvg1UeKqXU1ijQR37). 
-![venue](/images/cam_4.png)  
+![venue](/images/cam_4.png?width=50)  
 ### Unanswered questions
 - [Problems with the 28355 converting and displaying satellite imagery](https://groups.google.com/g/australian-qgis-user-group/c/RTdPNpnmynE/m/EX3IAKVPAQAJ)
 
