@@ -38,9 +38,9 @@ At FOSS4G SotM Auckland on Community Day we ran a session on what we wanted out 
 
 **Old time land cover patterns**
 [Evan Applegate](https://www.linkedin.com/posts/evan-applegate_maps-cartography-activity-7193950269175484416-8qG8?utm_source=share&utm_medium=member_desktop) has come through with providing a selection of land cover tiles that you can download and use.  
-landcover.png
-![Landcover patterns](/images/landcover.png?width=20)  
-You can grab these tiles from [here](https://www.dropbox.com/scl/fi/uxz3kajzc9vuwbn1qfidw/carto_patterns.ai?rlkey=tch363dk5agj8qydxayjjgnbj&dl=0).
+You can grab these tiles from [here](https://www.dropbox.com/scl/fi/uxz3kajzc9vuwbn1qfidw/carto_patterns.ai?rlkey=tch363dk5agj8qydxayjjgnbj&dl=0).  
+![Landcover patterns](/images/landcover.png?w=200)  
+
 
 ## Newsletter Content
 Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
