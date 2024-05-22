@@ -4,7 +4,7 @@ date = 2024-05-22T07:07:07+01:00
 draft = false
 +++
 
-### The QGIS Open Day is coming up soon and they need speakers - anyone? Also it may be time to plan your conferences for next year, as well as delve into neo-feaudalism. For our hints, we look at aeronautical maps and old-time land cover symbology.  
+### The QGIS Open Day is coming up soon and they need speakers - anyone? Also it may be time to plan your conferences for next year - we have added a few - Sweden anyone? We bring Neo-feaudalism to your attention to posit OS's role in a brave new world. For our hints, we look at aeronautical maps and old-time land cover symbology.  
 
 ## Events
 **QGIS Open Day (QOD)**
@@ -21,24 +21,23 @@ Voting closes soon on 24th May for the FOSS4G SotM Oceania logo! [Click here to 
 
 **QGIS User Conferences**
 **2024** - [Bratislava, Slovakia](https://uc2024.qgis.sk/)  
-**2025** - Norrköping Sweden is the official QGIS User Conference in the first week of June. Also if the Auckland FOSS4G bid wins, we can run a QGIS event - I reckon perhaps a day at Waiheke Island at Winery might do the job!  
+**2025** - Norrköping Sweden is the official QGIS User Conference in the first week of June. Also if the Auckland FOSS4G bid wins, we can run a QGIS event - perhaps a day at a Waiheke Island winery might do the job!  
 
 **Everything Open Conference** - January 2025 Adelaide  
 Everything Open is a conference focused on open technologies, including  Linux, open source software, open hardware and open data, and the  communities that surround them. The conference provides technical deep-dives as well as updates  from industry leaders and experts on a wide array of topics from these  areas. It occurs every year and in 2025 it will be held in Adelaide during January - [Subscribe for updates](https://www.linkedin.com/showcase/everythingopen/) to keep updated.   
 
 ## Neofeudalism: techno-lords and peasants
-When you come across those days, when you wonder if OS is worth continuing with, I have a podcast to show how important a role OS software plays in our future. Called [The Philosopher's Zone](https://www.abc.net.au/listen/programs/philosopherszone/neofeudalism-techno-lords-and-peasants/103744328), David Rutledge discuss what could be worse than capitalism with Francis Russell, who describes himself as a philosopher and a unionist.
+When you come across those days wondering if OS is worth continuing with, I have a podcast to show how important a role OS software plays in our future. Called [The Philosopher's Zone](https://www.abc.net.au/listen/programs/philosopherszone/neofeudalism-techno-lords-and-peasants/103744328), David Rutledge discuss what could be worse than capitalism with Francis Russell, who describes himself as a philosopher and a unionist.
 To see how this plays out fictionally, check out the [Mars Triology](https://www.kimstanleyrobinson.info/content/mars-trilogy) by Kim Stanley Robinson.  
 
 ## FOSS4G Story Maps
-At FOSS4G SotM Auckland on Community Day we ran a session on what we wanted out of a Digital Story Cartography Product for FOSS4G. Since then we have all gotten busy with our lives, but we did come across Oddyssey, which ABC have picked up and developed a bit more - Check out their [GitHub](https://github.com/abcnews/odyssey)
+At FOSS4G SotM Auckland on Community Day we ran a session on what we wanted out of a Digital Story Cartography Product for FOSS4G. Since then we have all gotten busy with our lives and it has fallen by the wayside. Before the lull, we did come across Oddyssey, which ABC have picked up and developed a bit more - Check out their [GitHub](https://github.com/abcnews/odyssey). If you would like to jump in and further develop it, please join the foss4g-productdev slack on maptime oceania. 
 
 ## Hints and Tips
 **Aeronautical maps** - check out Duplex Younkap Nina method on production of aeronautical maps [here](https://www.linkedin.com/posts/duplex-younkap-nina-engineer_airabrtrafficabrcontrol-asecna-geospatialabrengineering-activity-7198661608997314560-s2hl?utm_source=share&utm_medium=member_desktop)
 
 **Old time land cover patterns**
-Evan Applegate has come through with providing a selection of land cover tiles that you can download and use. 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7193306369297379329?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[Evan Applegate](https://www.linkedin.com/posts/evan-applegate_maps-cartography-activity-7193950269175484416-8qG8?utm_source=share&utm_medium=member_desktop) has come through with providing a selection of land cover tiles that you can download and use.  
 You can grab these tiles from [here](https://www.dropbox.com/scl/fi/uxz3kajzc9vuwbn1qfidw/carto_patterns.ai?rlkey=tch363dk5agj8qydxayjjgnbj&dl=0).
 
 ## Newsletter Content
