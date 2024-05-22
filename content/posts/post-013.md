@@ -1,7 +1,7 @@
 +++
 title = '013 - 22nd May 2024'
 date = 2024-05-22T07:07:07+01:00
-draft = true
+draft = false
 +++
 
 ### The QGIS Open Day is coming up soon and they need speakers - anyone? Also it may be time to plan your conferences for next year, as well as delve into neo-feaudalism. For our hints, we look at aeronautical maps and old-time land cover symbology.  
