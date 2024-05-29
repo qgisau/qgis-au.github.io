@@ -27,7 +27,7 @@ This year at FOSS4G SotM Oceania, we plan to conduct at least two QGIS workshops
   
 ### FOSS4G SotM Oceania 2024, Hobart
 The logo winner has been announced! Congratulations to [Cholena Smart](https://www.linkedin.com/in/cholena-smart/) from [Mammoth Geospatial](https://mammothgeospatial.com/), whose design thoughtfully incorporates the outlines of Oceania's landforms, with Tasmania highlighted.  
-[FOSS4G Oceania 2024 logo](/images/f4g2024?500)  
+[FOSS4G Oceania 2024 logo](/images/f4g2024.png?500)  
 Time to start getting things booked for this year's FOSS4G SotM Oceania 2024 in Hobart
 
 ## QGIS Project News
