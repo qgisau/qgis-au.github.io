@@ -1,6 +1,6 @@
 +++
 title = '014 - 29th May 2024'
-date = 2024-04-29T07:07:07+01:00
+date = 2024-04-29T01:07:07+01:00
 draft = false
 +++
 
@@ -13,7 +13,7 @@ This Friday is QGIS Open Day - tell the community about something awesome you ar
 - Check out the [QOD Wiki](https://github.com/qgis/QGIS/wiki/QOD-May-2024) for more information. 
 
 ### QGIS...Just the Basics!
-One to send out to your peeps that are just getting into QGIS or want to know 'how to QGIS'! Designed for beginners, this session will cover the fundamental concepts  of QGIS and how it can be utilized to visualize, analyze, and interpret  geospatial data. Sign-up for the [Webinar via Zoom](https://us06web.zoom.us/webinar/register/WN_Kw9DT8wlSd6yHHvMRxB3cA#/registration).
+One to send out to your peeps that are just getting into QGIS or want to know 'how to QGIS'! Designed for beginners, this session will cover the fundamental concepts of QGIS and how it can be utilized to visualize, analyze, and interpret geospatial data. Sign-up for the [Webinar via Zoom](https://us06web.zoom.us/webinar/register/WN_Kw9DT8wlSd6yHHvMRxB3cA#/registration).
 
 ## QGIS AU User Conference
 Monday 4th November, Hobart
@@ -22,11 +22,11 @@ We are looking for people for the conference committee. We need to make decision
 ### QGIS Workshops
 This year at FOSS4G SotM Oceania, we plan to conduct at least two QGIS workshops on the official workshop day. Additionally, on the day prior, during the QGIS AU User Conference, we will host our own QGIS Hackathon and can include some workshops in that event as well. We might also explore more specialized aspects, such as:  
 - Train the Trainer - how to run a training session internally for my organisation or a local session  
-- Enterpise QGIS set-up - delivering the perfect QGIS installation and environment to your users  
+- Enterprise QGIS set-up - delivering the perfect QGIS installation and environment to your users  
 ***So let us know what you would like see delivered on the day via this [QGIS AU User Conference Attendance form](https://forms.gle/s4HRcpN3vTkzRsdHA).***
   
 ### FOSS4G SotM Oceania 2024, Hobart
-The logo winner has been announced! Congratulations to Cholena from Mammoth Geospatial, whose design thoughtfully incorporates the outlines of Oceania's landforms, with Tasmania highlighted.  
+The logo winner has been announced! Congratulations to [Cholena Smart](https://www.linkedin.com/in/cholena-smart/) from [Mammoth Geospatial](https://mammothgeospatial.com/), whose design thoughtfully incorporates the outlines of Oceania's landforms, with Tasmania highlighted.  
 [FOSS4G Oceania 2024 logo](/images/f4g2024?500)  
 Time to start getting things booked for this year's FOSS4G SotM Oceania 2024 in Hobart
 
@@ -49,7 +49,7 @@ This has been around for awhile, but I just rediscovered it - so here you go, en
 
 ## Podcasts
 ### [Volodymyr Agafonkin: The Story behind Leaflet, Building the Simplest Mapping Library & Life in Ukraine] (https://www.mindsbehindmaps.com/episode/volodymyr-agafonkin-the-story-of-leaflet-building-the-simplest-mapping-library-amp-life-in-ukraine)
-Volodymyr delves into how he started leaflet, a truly interesting story and his life currently in Kyiv, Ukraine. You can watch or listen to the podcast. 
+Volodymyr delves into how he started leaflet the importance of scratching an itch in the creation of tools. You can watch or listen to the podcast and I love at the end of [Mind Behind Maps](https://www.mindsbehindmaps.com/about) podcasts they always ask about podcasts and books. 
 
 ### [37 myths about native forests!](https://www.abc.net.au/listen/programs/scienceshow/37-myths-about-native-forests-/103889928)  
 I nearly fell out of my hammock when listening to Robyn William's The Sceince Show on ABC this weekend - they actually said "Geographical Information Systems" out loud! Well it was David Lindenmayer (30min 40s) espousing how [Dr Chris Taylor's](https://www.linkedin.com/in/chris-taylor-6721a28b/) analysis on current use of slope in the forestry industry. 
