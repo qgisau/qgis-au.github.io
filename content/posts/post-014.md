@@ -4,7 +4,7 @@ date = 2024-05-29T07:07:07+01:00
 draft = false
 +++
 
-### QGIS Open Day is on this Friday! So stay up late and check out the happenings!
+### QGIS Open Day is on this Friday! So stay up late and check out the happenings! We have 2 great podcasts for you to listen to and the FOSS4G SotM Oceania Logo Winner has been announced!
 
 ## EVENTS
 ### QGIS Open Day
@@ -27,18 +27,18 @@ This year at FOSS4G SotM Oceania, we plan to conduct at least two QGIS workshops
   
 ### FOSS4G SotM Oceania 2024, Hobart
 The logo winner has been announced! Congratulations to [Cholena Smart](https://www.linkedin.com/in/cholena-smart/) from [Mammoth Geospatial](https://mammothgeospatial.com/), whose design thoughtfully incorporates the outlines of Oceania's landforms, with Tasmania highlighted.  
-[FOSS4G Oceania 2024 logo](/images/f4g2024.png?500)  
-Time to start getting things booked for this year's FOSS4G SotM Oceania 2024 in Hobart
+![FOSS4G Oceania 2024 logo](/images/f4g2024.png?500)  
+Time to start getting things booked for this year's [FOSS4G SotM Oceania 2024 in Hobart](https://2024.foss4g-oceania.org/)
 
 ## QGIS Project News
 ### Plugin Website submissions
- As of 03 June 2024, providing a license file will be mandatory for any new updates to existing and new plugins published according to QEP#279.  
+ As of 03 June 2024, providing a license file will be mandatory for any new updates to existing and new plugins published according to [QEP#279](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/279).  
  
 ### QGIS User Conference Schedule Released
-Some really great papares will be presented, check them out [here](https://uc2024.qgis.sk/schedule/).
+Some really great papers by some of the QGIS Gurus (we are not worthy) will be presented, check them out [here](https://uc2024.qgis.sk/schedule/).
 
 ### Mac for QGIS
-<iframe src="https://norden.social/@jef/112491300220760094/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>  
+<iframe src="https://norden.social/@jef/112491300220760094/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://norden.social/embed.js" async="async"></script>
 
 ### QGIS Plugin Blog
 <iframe src="https://fosstodon.org/@underdarkGIS/112501576475449459/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script> 
@@ -48,7 +48,7 @@ This has been around for awhile, but I just rediscovered it - so here you go, en
 ![QGIs Map Showcase](/images/map-showcase.png?500)
 
 ## Podcasts
-### [Volodymyr Agafonkin: The Story behind Leaflet, Building the Simplest Mapping Library & Life in Ukraine] (https://www.mindsbehindmaps.com/episode/volodymyr-agafonkin-the-story-of-leaflet-building-the-simplest-mapping-library-amp-life-in-ukraine)
+### [Volodymyr Agafonkin: The Story behind Leaflet, Building the Simplest Mapping Library & Life in Ukraine](https://www.mindsbehindmaps.com/episode/volodymyr-agafonkin-the-story-of-leaflet-building-the-simplest-mapping-library-amp-life-in-ukraine)
 Volodymyr delves into how he started leaflet the importance of scratching an itch in the creation of tools. You can watch or listen to the podcast and I love at the end of [Mind Behind Maps](https://www.mindsbehindmaps.com/about) podcasts they always ask about podcasts and books. 
 
 ### [37 myths about native forests!](https://www.abc.net.au/listen/programs/scienceshow/37-myths-about-native-forests-/103889928)  
@@ -57,7 +57,8 @@ I nearly fell out of my hammock when listening to Robyn William's The Sceince Sh
 ## Support Disaster relief mapping
 This weeks tasks include:
 - Flood mapping for Chennai, DRC Congo and Rio Grande do Sul.
-- Earthquake mapping for  East Sepik in PNG and Hualien. 
+- Earthquake mapping for  East Sepik in PNG and Hualien.
+  
 Check out the [HOTOSM Tasking Manager](https://tasks.hotosm.org/explore) to get started. 
 
 ## Newsletter Content
