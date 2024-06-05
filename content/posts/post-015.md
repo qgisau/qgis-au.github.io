@@ -34,7 +34,7 @@ The QGIS project announced [Felt’s](https://felt.com/) continued flagship-leve
 
 ## FOSS4G News
 **AUCKLAND HAS WON THEIR BID TO HOST THE 2025 GLOBAL FOSS4G!!!!!**
-A massive effort was put in by the OSGeo Oceania community to win the bid to bring the global to aoteroa/New Zealand for 2025. A big thanks go to OSGeo Oceania for supporting it and the coordinators Simon Nitz, Alex Leith, Greg Lauer and many more. If you want to be in on the organising, let them know via the MapTime Oceania Slack #general channel.  
+A massive effort was put in by the OSGeo Oceania community to win the bid to bring the global to aotearoa/New Zealand for 2025. A big thanks go to OSGeo Oceania for supporting it and the coordinators Simon Nitz, Alex Leith, Greg Lauer and many more. If you want to be in on the organising, let them know via the MapTime Oceania Slack #general channel.  
 ![2025 FOSS4G Host](/images/FOSS4GAuckland2025_50pc.png)
 
 ## Styles
