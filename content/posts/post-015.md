@@ -1,6 +1,6 @@
 +++
 title = '015 - 5th June 2024'
-date = 2024-06-05T07:07:07+01:00
+date = 2024-06-05T01:07:07+01:00
 draft = false
 +++
 ### So much great news this week - FOSS4G Global is coming to Auckland, Oceania in 2025! We have a venue for QGIS AU Users Conference! Felt is sponsoring QGIS for another year!  
