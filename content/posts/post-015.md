@@ -3,7 +3,9 @@ title = '015 - 5th June 2024'
 date = 2024-06-05T07:07:07+01:00
 draft = false
 +++
-### Great news - the Auckland Bid FOSS4G 
+### So much great news this week - FOSS4G Global is coming to Auckland, Oceania in 2025! We have a venue for QGIS AU Users Conference! Felt is sponsoring QGIS for another year!  
+### But not so great is the devastation in PNG - there is an urgent call-out for mappers in HOTOSM Taskng Manager - details below on how you can help. 
+
 ## EVENTS 
 - [Brisbane Geospatial Network](https://www.linkedin.com/groups/4182934/) is on tonight!  
 - **QGIS Open Day** 28th June  
@@ -32,7 +34,7 @@ The QGIS project announced [Felt’s](https://felt.com/) continued flagship-leve
 
 ## FOSS4G News
 **AUCKLAND HAS WON THEIR BID TO HOST THE 2025 GLOBAL FOSS4G!!!!!**
-A massive effort was put in by the OSGeo Oceania community to win the bid to bring the global to aoteroa/New Zealand for 2025. A big thanks go to Simon Nitz, Alex Leith, Greg Lauer and many more. If you want to be in on the organising, let them know via the MapTime Oceania Slack #general channel.  
+A massive effort was put in by the OSGeo Oceania community to win the bid to bring the global to aoteroa/New Zealand for 2025. A big thanks go to OSGeo Oceania for supporting it and the coordinators Simon Nitz, Alex Leith, Greg Lauer and many more. If you want to be in on the organising, let them know via the MapTime Oceania Slack #general channel.  
 ![2025 FOSS4G Host](/images/FOSS4GAuckland2025_50pc.png)
 
 ## Styles
