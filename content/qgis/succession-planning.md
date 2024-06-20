@@ -6,8 +6,8 @@ draft = false
 
 # QGIS Plugins - Succession Planning  
 by Em Hain  
-![Nodebo QGIS User Conference 2015](/images/nodebo.png)
 <p align="center"> 
+![Nodebo QGIS User Conference 2015](/images/nodebo.png)
 Nodebo QGIS User Conference 2015
 </p>
 
