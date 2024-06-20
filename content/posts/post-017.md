@@ -3,7 +3,8 @@ title = '017 - 19th June 2024'
 date = 2024-06-19T07:07:07+01:00
 draft = false
 +++
-A lot has been happening recently with QGIS and OSGeo and this is a bumper issue!   
+
+### A lot has been happening recently with QGIS and OSGeo and this is a bumper issue!   
 ## QGIS AU news
 ### QGIS AU User Conference
 We are looking for presenters of the following sessions:
