@@ -47,7 +47,7 @@ These are some hints drawn from the recent QGIS User list for a user who needed 
 - Spatial Index exists - Layer Properties and under Source, click Create Spatial Index.
 - Simplify the tables - remove anything you don't need
 ### QGIS Corner Series
-Felt, flagship sponsors of QGIS, have created a [QGIS Corner](https://youtube.com/playlist?list=PLulpFBGeM9D4TPdXnldfLS6iXRxsqzLob&si=xm3k_P-T-Z6CfimU) series utilising some great talents for some hints and tips QGIS.
+Felt, flagship sponsors of QGIS, have created a [QGIS Corner](https://youtube.com/playlist?list=PLulpFBGeM9D4TPdXnldfLS6iXRxsqzLob&si=xm3k_P-T-Z6CfimU) series on YouTube utilising some great talents for some hints and tips QGIS.
 ![QGIS Corner Series](/images/qgis-core.png)
 ## Support Disaster relief mapping
 - Flood mapping for Afhanistan, DRC and Brazil
