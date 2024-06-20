@@ -7,7 +7,9 @@ draft = false
 # QGIS Plugins - Succession Planning  
 by Em Hain  
 ![Nodebo QGIS User Conference 2015](/images/nodebo.png)
-<figcaption>Nodebo QGIS User Conference 2015
+<p align="center"> 
+Nodebo QGIS User Conference 2015
+</p>
 
 Open Source projects often start as the passion projects of individual developers. For many, these endeavours are labours of love. However, there comes a time when sharing the reins becomes necessary, as none of us are immortal.
 Once a maintainer retires, if they don’t have a successor to continue maintenance, it will usually be thrown out to the community for someone to take over the maintenance OR to find a way to fund the maintenance/bug fixes. 
