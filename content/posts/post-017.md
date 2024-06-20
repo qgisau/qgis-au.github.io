@@ -24,7 +24,7 @@ An additional project - [QEP#248 Authentication System: allow Database storage f
 The [schedule](https://uc2024.qgis.sk/schedule/details/) is released, hopefully all will loaded onto YouTube afterwards. This one in particularly will be interesting, 
 [The case of transforming attitude towards open source in public administration](https://talks.osgeo.org/qgis-uc2024/talk/NDHZX3/)
 ### Jupyter and QGIS
-[ESA funds the consortium made up of QuantStack and Simulae Research lab to develop real-time collaboration and collaborative editing for GIS workflows in Jupyter and QGIS](https://blog.jupyter.org/jupytergis-d63b7adf9d0c)
+ESA funds the consortium made up of QuantStack and Simulae Research lab to develop real-time collaboration and collaborative editing for GIS workflows in [Jupyter and QGIS](https://blog.jupyter.org/jupytergis-d63b7adf9d0c)
 
 ## OSGeo News
 ### FOSS4G Oceania 2024
