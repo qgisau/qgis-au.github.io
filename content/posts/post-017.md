@@ -4,7 +4,8 @@ date = 2024-06-19T07:07:07+01:00
 draft = false
 +++
 
-### A lot has been happening recently with QGIS and OSGeo and this is a bumper issue!   
+### A lot has been happening recently with QGIS and OSGeo and this is a bumper issue, but first, checkout the new splash for 3.38 Grenoble!
+![Grenoble v3.38](/images/splash338rc.png)
 
 ## QGIS AU news
 ### QGIS AU User Conference
