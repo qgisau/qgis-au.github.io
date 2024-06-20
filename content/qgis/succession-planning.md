@@ -3,8 +3,6 @@ title = 'QGIS Plugins - Succession Planning'
 date = 2024-06-19T07:07:07+01:00
 draft = false
 +++
-
-# QGIS Plugins - Succession Planning  
 by Em Hain  
 ![Nodebo QGIS User Conference 2015](/images/nodebo.png)
 <p align="center"> 
