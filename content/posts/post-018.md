@@ -4,7 +4,8 @@ date = 2024-06-26T07:07:07+01:00
 draft = false
 +++
 
-### This week we have our first submission from the Community - Colin Mazengarb gives us the lowdown on Mixed Format Labels! 
+### This week we have our first submission from the Community - Colin Mazengarb gives us the lowdown on Mixed Format Labels!  
+
 
 ## Hints and Tips
 ### Mixed Format Labels for dummies! by Colin Mazengarb  
