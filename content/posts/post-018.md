@@ -25,11 +25,20 @@ The following screenshot and code has the first line in the default text format 
     </figure>
 </center>
 
-![Figure 2 Example of mixed label format showing borehole IDs and with the drill length property on a new line in red and a slightly smaller font. ](/images/fig2_cm.png)  
-Figure 2 Example of mixed label format showing borehole IDs and with the drill length property on a new line in red and a slightly smaller font.  
+<center>
+  <figure>
+    <img src="/images/fig2_cm.png" alt= "Figure 2"/>
+    <figcaption>Figure 2 Example of mixed label format showing borehole IDs and with the drill length property on a new line in red and a slightly smaller font.</figcaption>
+    </figure>
+</center>
 
-![Figure 3 Palette showing the HTML colour code format that can be copied into the label expression](/images/fig3_cm.png)  
-Figure 3 Palette showing the HTML colour code format that can be copied into the label expression  
+
+<center>
+  <figure>
+    <img src="/images/fig3_cm.png" alt= "Figure 3"/>
+    <figcaption>Figure 3 Palette showing the HTML colour code format that can be copied into the label expression</figcaption>
+    </figure>
+</center>
 
 The syntax for HTML formatting in QGIS label expressions requires a change of code from a standard expression as shown in the following example. In this example BoreID takes the default label settings, BoreDepth is on a new line and is red with a different font size from the default font. The colour code can be copied from the palette in QGIS as shown in the screen grab.  
 ````
