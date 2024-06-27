@@ -18,7 +18,7 @@ Mixed format labels enables a mixture of fonts, colours, sizes, etc for a given 
 The easiest step is to Allow HTML formatting in the Text properties section as shown in the following screen grab. This is also the easiest thing to forget to do as well and leave you wondering why all the HTML code is appearing in the label yet the preview looks OK!!  
 
 The following screenshot and code has the first line in the default text format and the second line a reduced font size and red colour.  
-![Figure 1 Label dialogue with the Allow HTML formatting ticked](/images/fig1_cm2.png)  
+![Figure 1 Label dialogue with the Allow HTML formatting ticked](/images/fig1_cm2.png)
 Figure 1 Label dialogue with the Allow HTML formatting ticked  
 
 ![Figure 2 Example of mixed label format showing borehole IDs and with the drill length property on a new line in red and a slightly smaller font. ](/images/fig2_cm.png)  
