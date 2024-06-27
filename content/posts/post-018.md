@@ -21,7 +21,7 @@ The following screenshot and code has the first line in the default text format 
 <center>
   <figure>
     <img src="/images/fig1_cm2.png" alt= "Figure 1"/>
-    <figcaption<Figure 1 Label dialogue with the Allow HTML formatting ticked</figcaption>
+    <figcaption>Figure 1 Label dialogue with the Allow HTML formatting ticked</figcaption>
     </figure>
 </center>
 
