@@ -4,30 +4,15 @@ date = 2024-06-26T07:07:07+01:00
 draft = true
 +++
 
-### INTRO MESSAGE SUMMARY
-
-## QGIS AU News
-
-## QGIS Project News
-### QFIELD new release
-This new release is bumper chock-full including: 
-- A new drawing tool to sketch or annotate (funded by the Swiss QGIS user group)
-- Copy and paste vector features
-- Feature form imrpovemens
-- UX improvements for information panels and dashboards
-- New Plugin Framework
-Read more about it [here](https://www.opengis.ch/2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/).
-
-## Regional News
-Emory Beck, from Aotearoa and known for his 3D rendering work, was one of the most popular talks at last year's FOSS4G SotM Oceania NZ, check out his latest blog on (Relief Series - National/Forest Parks)[https://www.maphustle.co.nz/blogs/relief-series].  
+### This week we have our first submission from the Community - Colin Mazengarb gives us the lowdown on Mixed Format Labels! 
 
 ## Hints and Tips
 ### Mixed Format Labels for dummies! by Colin Mazengarb  
-Recently I wanted to try the mixed format labelling capability that North Road developed in 2022 for QGIS 3.28 and outlined in this post: *Mixed Format Labels in QGIS — coming soon!* – [North Road](north-road.com).  
+Recently I wanted to try the mixed format labeling capability that North Road developed in 2022 for QGIS 3.28 and outlined in this post: *Mixed Format Labels in QGIS — coming soon!* – [North Road](north-road.com).  
 
 This appears to be the only documentation I can find and not being proficient in HTML it took some experimenting for me to get more complex code working consistently. I suspect I am not the only one who struggled with this so in the spirit of sharing here is my learning. More importantly this will also provide content for Em and make me feel less guilty at the same time!   
 
-Mixed format labels enables a mixture of fonts, colours, sizes, etc for a given label expression, something that cannot be done in the standard labelling engine. Warning: the workflow is a little complicated but hopefully my examples and notes will get you started.  
+Mixed format labels enables a mixture of fonts, colours, sizes, etc for a given label expression, something that cannot be done in the standard labeling engine. Warning: the workflow is a little complicated but hopefully my examples and notes will get you started.  
 
 The easiest step is to Allow HTML formatting in the Text properties section as shown in the following screen grab. This is also the easiest thing to forget to do as well and leave you wondering why all the HTML code is appearing in the label yet the preview looks OK!!  
 
@@ -68,14 +53,30 @@ Notes:
 - Functions such as round can be inserted in the normal manner as shown in the example above.
    
 I am hoping this is helpful and a big thanks to the North Road team and their sponsors for developing an amazing capability.
+## QGIS AU News
+Busy times abound. Help is needed to organise the QGIS User Conference if you are able to. 
+
+## QGIS Project News
+### QFIELD new release
+This new release is bumper chock-full including: 
+- A new drawing tool to sketch or annotate (funded by the Swiss QGIS user group)
+- Copy and paste vector features
+- Feature form imrpovements
+- UX improvements for information panels and dashboards
+- New Plugin Framework
+Read more about it [here](https://www.opengis.ch/2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/).
+
+## Regional News
+Emory Beck, from Aotearoa and known for his 3D rendering work, was one of the most popular talks at last year's FOSS4G SotM Oceania NZ, check out his latest blog on (Relief Series - National/Forest Parks)[https://www.maphustle.co.nz/blogs/relief-series].  
 
 ## Not QGIS but related...somewhat
 For those lovers of patterns - get yourself lost in this music video by Weval, an electronica band out of The Netherlands. One word that we all love - Patterns- watch [Someday](https://youtu.be/n-wEvzqdDZg?si=JFeCIPJNYvrXmKhC) - put it full screen, darken the room and hit play. No distractions for 4.5 minutes. Caution for those who have health issues impacted by photosensitivity. 
 
 ## Support Disaster relief mapping
-- Flood mapping for Afhanistan, DRC and Brazil
-- Earthquake mapping for East Sepik, PNG
+- Flood mapping for Afghanistan, DRC and Brazil
 - Landslide mapping for Enga Province, PNG
+- Kanlaon Volcano in the Philippines
+- Libya mapping project
 
 Check out the [HOTOSM Tasking Manager](https://tasks.hotosm.org/explore) to get started. 
 
@@ -94,4 +95,4 @@ Check out the [HOTOSM Tasking Manager](https://tasks.hotosm.org/explore) to get 
  ***Check the [Events](https://qgis-australia.org/events/) for more information. ***
 
 ## Newsletter Content
-Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contrbution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
+Finding these emails boring and want to contribute some content? You can provide an interest story, a report on an event or a technical instruction. Head to the [Content Contribution form](https://forms.gle/2DPXq5Y8wqnc7KhS8) to fill in your contribution. We will then contact you to run through the contribution. 
