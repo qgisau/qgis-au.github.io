@@ -13,7 +13,8 @@ Made up of end-users, hobbyists, scientists, professionals, students and develop
 **9am-5pm, Monday 4th November, IMAS Salamanca, UTAS - Rori Room**  
 Hosted by the QGIS Australia User Group, we invite you to come and join in the community. Everyone is welcome, whether from Australia or the rest of Oceania or you are just in town!  
 This is held on the day prior to the [2024 FOSS4G Oceania Hobart Conference](https://2024.foss4g-oceania.org/).   
-*We are currently in planning mode and will provide updates shortly.*
+Check out the [Events page](https://qgis-australia.org/events/) for more information. 
+
 ### **[Join the QGIS Australia User Group to stay updated!](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
 
 ## **Check out past weekly notices under [The Happenings](https://qgis-australia.org/posts/)**
