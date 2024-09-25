@@ -1,4 +1,4 @@
-[Some hints on running a local event](https://qgis-australia.org/events/run-local-event/)  
+
 
 ## QGIS Regional User Meeting hosted by QGIS Australia
 **When:** 9am-5pm, Monday 4th November 2024 prior to the FOSS4G Oceania Conference, Hobart  
@@ -27,6 +27,8 @@ If you have an idea to tackle for the day, bring it ready to be worked on - with
 
 <!--EndFragment-->
 
+# Local Events
+[Some hints on running a local event](https://qgis-australia.org/events/run-local-event/)  
 
 # Upcoming Events
 
