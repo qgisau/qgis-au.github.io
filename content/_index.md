@@ -9,7 +9,7 @@ We have an active online discussion group and our mission is to engage and grow 
 Made up of end-users, hobbyists, scientists, professionals, students and developers, all are welcome and we recognise the importance of everyone's input.
 {{< /lead >}}
 
-# 2024 QGIS Australia User Meeting 
+# 2024 QGIS Regional User Meeting hosted by QGIS Australia
 **9am-5pm, Monday 4th November, IMAS Salamanca, UTAS - Rori Room**  
 Hosted by the QGIS Australia User Group, we invite you to come and join in the community. Everyone is welcome, whether from Australia or the rest of Oceania or you are just in town!  
 This is held on the day prior to the [2024 FOSS4G Oceania Hobart Conference](https://2024.foss4g-oceania.org/).   
