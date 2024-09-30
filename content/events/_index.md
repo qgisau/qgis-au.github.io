@@ -18,7 +18,7 @@ If you have an idea to tackle for the day, bring it ready to be worked on - with
 | :-------: | ---------------------------------------------- |
 |  **9am**  | Welcome, Introductions and Projects to tackle  |
 | **10.00** | Break-up into Project groups                   |
-| **12.00** | Activitiy Reflection                           |
+| **12.00** | Activity Reflection                           |
 | **12.30** | Lunch break                                    |
 | **13.30** | Map out the Afternoon                          |
 | **13.45** | Break-up into Project groups                   |
