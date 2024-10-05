@@ -14,6 +14,9 @@ Made up of end-users, hobbyists, scientists, professionals, students and develop
 Hosted by the QGIS Australia User Group, we invite you to come and join in the community. Everyone is welcome, whether from Australia or the rest of Oceania or you are just in town!  
 This is held on the day prior to the [2024 FOSS4G Oceania Hobart Conference](https://2024.foss4g-oceania.org/). ***Check out the [Events page](https://qgis-australia.org/events/) for more information.***  
 
+Tickets are available **NOW**, click [here](https://ti.to/osgeo-oceania/qgis-au-2024) to secure yours. Only 40 tickets are available so be quick!  
+[![User Meeting Logo](2024_meeting_design.png)](https://ti.to/osgeo-oceania/qgis-au-2024)
+
 ### **[Join the QGIS Australia User Group to stay updated!](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
 
 ## **Check out past weekly notices under [The Happenings](https://qgis-australia.org/posts/)**
