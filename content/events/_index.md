@@ -3,7 +3,7 @@
 ## QGIS Regional User Meeting hosted by QGIS Australia
 **When:** 9am-5pm, Monday 4th November 2024 prior to the FOSS4G Oceania Conference, Hobart  
 **Venue:** IMAS, UTAS, 20 Castray Esplanade, Battery Point TAS 7004  
-**Tickets:** $10 to be released soon. Only 40 will be available so watch this space  
+**Tickets:** $10 AVAILABLE NOW. Only 40 will be available - click [here](https://ti.to/osgeo-oceania/qgis-au-2024) to order yours!  
 **Updates:** We will publish details as they come. So check back here, or watch for updates on the QGIS AU email list and on Slack Maptime Oceania #qgis chat.  
 
 ### Content
@@ -26,7 +26,9 @@ If you have an idea to tackle for the day, bring it ready to be worked on - with
 | **17.00** | Finish and let's head off to the QGIS AU Social Gathering (venue tbc) |
 
 <!--EndFragment-->
-
+### T-shirts are available
+[Order here](https://ti.to/osgeo-oceania/qgis-au-2024)  
+![T-shirts](/images/tshirt_mockup.png)
 # Local Events
 [Some hints on running a local event](https://qgis-australia.org/events/run-local-event/)  
 
