@@ -11,7 +11,7 @@ Made up of end-users, hobbyists, scientists, professionals, students and develop
 
 # 2024 QGIS Regional User Meeting hosted by QGIS Australia
 ![User Meeting Attendees](/images/QGIS_UM_rounded_small.jpg)  
-Well that's a wrap for this year's User Meeting - check out the email list for upcoming meetings and the report from it [here]. We will be holding a more intensive User Meeting at next year's global FOSS4G 2025 in Auckland.  
+Well that's a wrap for this year's User Meeting - check out the email list for upcoming meetings and the report from it [here](https://qgis-australia.org/events/qgisau-user-regional-conference-2024/). We will be holding a more intensive User Meeting at next year's global FOSS4G 2025 in Auckland.  
 [![User Meeting Logo](/images/2024_meeting_design.png)](https://ti.to/osgeo-oceania/qgis-au-2024)
 
 ### **[Join the QGIS Australia User Group to stay updated!](https://groups.google.com/g/australian-qgis-user-group?pli=1)**
