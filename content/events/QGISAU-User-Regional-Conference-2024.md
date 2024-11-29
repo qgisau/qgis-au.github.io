@@ -4,13 +4,8 @@ date = 2024-11-28T07:07:07+01:00
 draft = false
 +++
 
-![QGIS Australia Meeting logo](/images/UM2024logo.png)  
-
-**QGIS Australia**
-
-**Regional User Meeting 2024 - Hobart**
-
-
+# QGIS Australia
+## Regional User Meeting 2024 - Hobart
 ![Group photo](/images/QGIS_UM_rounded_small.jpg)  
 
 In the lead-up to the FOSS4G SotM Oceania 2024 Hobart Conference, QGIS Australia hosted an event on Monday, 4th November, to bring together QGIS users from across Australia and conference attendees. The Institute for Marine and Antarctic Studies (IMAS) in Salamanca supported the event by providing us with the venue where the participants gathered in the downstairs seminar room, situated right on the docks with a view of the research vessels. This marked our second-ever QGIS User Meeting, aimed at engaging, inspiring, and fostering connections within our community.
