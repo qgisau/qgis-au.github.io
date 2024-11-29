@@ -1,10 +1,14 @@
-<!--StartFragment-->
++++
+title = 'QGIS Regional User Meeting HObart 2024'
+date = 2024-11-28T07:07:07+01:00
+draft = false
++++
 
 ![QGIS Australia Meeting logo](/images/UM2024logo.png)  
 
 **QGIS Australia**
 
-**User Meeting 2024 - Hobart**
+**Regional User Meeting 2024 - Hobart**
 
 
 ![Group photo](/images/QGIS_UM_rounded_small.jpg)  
@@ -37,6 +41,3 @@ Thanks also go to [Mammoth Geospatial](https://mammothgeospatial.com/) and [Nort
 Finally, thank-you to our financial sponsor, [OSGeo Oceania](https://osgeo-oceania.org/), who supported through their grants program.
 
 ![Dawn](/images/UM2024dawn.png)
-
-
-<!--EndFragment-->
