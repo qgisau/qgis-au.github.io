@@ -1,5 +1,5 @@
 +++
-title = 'QGIS Regional User Meeting HObart 2024'
+title = 'QGIS Regional User Meeting Hobart 2024'
 date = 2024-11-28T07:07:07+01:00
 draft = false
 +++
